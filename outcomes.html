@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Outcomes · SIG-ILSP</title>
+<meta name="description" content="Recent speech papers from India-affiliated authors.">
+<script>try{var t=localStorage.getItem("sig-theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css?v=21">
+</head>
+<body data-page="outcomes">
+<main><div class="wrap">
+
+<header class="page-head"><p class="eyebrow">Papers and results</p><h1>Outcomes</h1><p class="lede">Papers, PhD theses and resources on speech, spoken language and audio from India.</p></header>
+
+<div class="filters" style="position:static">
+  <div class="seg" role="tablist" aria-label="View">
+    <button type="button" data-view="papers" aria-pressed="true">Papers and theses</button>
+    <button type="button" data-view="resources" aria-pressed="false">Resources <span class="n" id="n-resources"></span></button>
+  </div>
+</div>
+
+<section id="view-resources" style="padding-top:.5rem" hidden>
+  <div class="card" style="margin-bottom:1rem"><h3>Datasets, benchmarks, models and toolkits</h3><p class="small muted">Resources for speech in Indian languages, submitted by their creators or users and checked by a SIG maintainer. Check each resource's own licence and terms before use.</p>
+    <a class="btn accent sm" href="https://github.com/spinlabiitg/sig-ilsp/issues/new?template=resource.yml">Add a dataset or resource</a></div>
+  <div class="filters">
+    <input type="search" id="rq" placeholder="Search name, description, creator or language" aria-label="Search resources">
+    <select id="rtype" aria-label="Type"><option value="">All types</option></select>
+    <select id="rlang" aria-label="Language"><option value="">All languages</option></select>
+  </div>
+  <p class="small muted" id="rcount"></p>
+  <div class="grid" id="resources"></div>
+</section>
+
+<section id="view-papers" style="padding-top:.5rem">
+
+<div class="grid" style="margin-top:1rem">
+  <div class="card"><h3>Snapshot, <span id="window"></span></h3><p class="small muted">A one-time compilation for the SIG (27 Sep 2026) from the ISCA Archive and OpenAlex. It is fixed and will not be updated. Coverage is incomplete, especially for ICASSP.</p></div>
+  <div class="card"><h3>Added by authors <span class="tag" id="n-added">0</span></h3><p class="small muted">Papers that authors submit themselves through a short form. A SIG maintainer checks each one before it appears.</p>
+    <a class="btn accent sm" href="https://github.com/spinlabiitg/sig-ilsp/issues/new?template=paper.yml">Add your paper</a></div>
+  <div class="card"><h3>PhD theses <span class="tag warm" id="n-theses">0</span></h3><p class="small muted">Theses defended at institutions in India, submitted by authors or supervisors. A good starting point for anyone new to a topic.</p>
+    <a class="btn accent sm" href="https://github.com/spinlabiitg/sig-ilsp/issues/new?template=thesis.yml">Add a thesis</a></div>
+</div>
+
+<div class="filters">
+  <input type="search" id="q" placeholder="Search title, author or institution" aria-label="Search papers">
+  <select id="kind" aria-label="Type"><option value="">Papers and theses</option><option value="paper">Papers</option><option value="thesis">Theses</option></select>
+  <select id="source" aria-label="Source"><option value="">All sources</option><option value="snapshot">Snapshot only</option><option value="submitted">Added by authors</option></select>
+  <select id="venue" aria-label="Venue"><option value="">All venues</option></select>
+  <label><input type="checkbox" id="indic"> Indian-language focus only</label>
+</div>
+<div class="chips" id="chips" role="group" aria-label="Filter by theme"></div>
+<p class="small muted" id="count"></p>
+<ul class="paper-list" id="papers"></ul>
+<p style="margin-top:1.5rem"><a class="btn ghost" href="https://github.com/spinlabiitg/sig-ilsp/issues/new?template=paper.yml">Add a missing paper</a> <a class="btn ghost" href="https://github.com/spinlabiitg/sig-ilsp/issues/new?template=thesis.yml">Add a thesis</a></p>
+</section>
+
+</div></main>
+<script src="assets/site.js?v=18"></script>
+</body>
+</html>

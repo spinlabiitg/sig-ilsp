@@ -1,0 +1,30 @@
+[
+ {
+  "name": "IndicVoices",
+  "type": "Dataset",
+  "description": "Speech dataset for Indian languages from AI4Bharat, IIT Madras.",
+  "languages": ["Multiple Indian languages"],
+  "size": "",
+  "licence": "CC-BY 4.0",
+  "access": "Free, after registration or accepting terms",
+  "creators": "AI4Bharat, IIT Madras",
+  "year": "",
+  "link": "https://huggingface.co/datasets/ai4bharat/IndicVoices",
+  "issue": null,
+  "added": "2026-10-23"
+ },
+ {
+  "name": "Vaani",
+  "type": "Dataset",
+  "description": "Spontaneous speech recorded district by district across India: speakers describe images in the language they speak. The voice clips on this site's home page come from Vaani.",
+  "languages": ["Multiple Indian languages"],
+  "size": "",
+  "licence": "CC-BY 4.0",
+  "access": "Free, after registration or accepting terms",
+  "creators": "IISc Bangalore and ARTPARK",
+  "year": "",
+  "link": "https://huggingface.co/datasets/ARTPARK-IISc/Vaani",
+  "issue": null,
+  "added": "2026-10-23"
+ }
+]

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>People · SIG-ILSP</title>
+<meta name="description" content="Groups and people in India working on speech and spoken language.">
+<script>try{var t=localStorage.getItem("sig-theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css?v=21">
+</head>
+<body data-page="people">
+<main><div class="wrap">
+
+<header class="page-head"><p class="eyebrow">Who works on what</p><h1>People and groups</h1><p class="lede">An opt-in directory of people and research groups in academia, industry and government working on speech and spoken language in India. Everyone lists themselves; a SIG maintainer checks each entry.</p></header>
+
+<div class="filters">
+  <div class="seg" role="tablist" aria-label="View">
+    <button type="button" data-view="map" aria-pressed="true">Map</button>
+    <button type="button" data-view="groups" aria-pressed="false">Groups <span class="n" id="n-groups"></span></button>
+    <button type="button" data-view="people" aria-pressed="false">People <span class="n" id="n-people"></span></button>
+  </div>
+  <input type="search" id="gq" placeholder="Search name, institution, topic or language" aria-label="Search" hidden>
+  <span style="margin-left:auto;display:flex;gap:.5rem;flex-wrap:wrap">
+    <a class="btn accent sm" href="https://github.com/spinlabiitg/sig-ilsp/issues/new?template=person.yml">Join the directory</a>
+    <a class="btn ghost sm" href="https://github.com/spinlabiitg/sig-ilsp/issues/new?template=group.yml">List your group</a>
+  </span>
+</div>
+
+<section id="view-map" style="padding-top:.5rem"></section>
+<section id="view-groups" style="padding-top:.5rem" hidden><div class="grid" id="groups"></div></section>
+<section id="view-people" style="padding-top:.5rem" hidden><div class="grid" id="people"></div></section>
+
+<p class="small muted" style="margin-top:2rem">Listing is opt-in. We publish only what you submit, never email addresses or phone numbers. To update or remove your entry, submit the <a href="https://github.com/spinlabiitg/sig-ilsp/issues/new?template=person.yml">directory form</a> again.</p>
+
+</div></main>
+<script src="assets/map.js?v=17"></script>
+<script src="assets/site.js?v=18"></script>
+</body>
+</html>

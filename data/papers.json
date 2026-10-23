@@ -1,0 +1,2983 @@
+[
+ {
+  "id": 1,
+  "title": "A Gated Multi-Task Whisper Framework for Speech, Emotion, and Scene Understanding",
+  "authors": "Manjiri Bhat; Ravindra B. Keskar",
+  "affiliations": "VNIT Nagpur",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/bhat26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 2,
+  "title": "A Human-in-the-Loop Multi-Agent Companion for Real-Time Entity Extraction and SLU-Driven ASR Error Correction",
+  "authors": "Shiva Shankar Arumugam; Ameyaditya Achar J; Aashraya Sachdeva",
+  "affiliations": "Observe.AI India",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/arumugam26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 3,
+  "title": "A light weight Continuous Speaker Verification System for Real time Monitoring",
+  "authors": "Nikhil Keetha; Hima Jyothi R; Nivedita Chennupati; Balaji Padmanaban; Harish Rajamani; Naveen Ambati",
+  "affiliations": "Meeami Technologies",
+  "institutions": [
+   "Meeami Technologies"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/keetha26b_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 4,
+  "title": "ALFreeD: Teacher-Guided Few-Shot Pronunciation Assessment via Segmentation-Free Deviation Modeling",
+  "authors": "Meenakshi Sirigiraju; Nevin K Mathew; Reni K Cherian; Chiranjeevi Yarra",
+  "affiliations": "IIIT Hyderabad (LTRC); Saintgits College of Engineering, Kottayam",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/sirigiraju26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 5,
+  "title": "ARTIST: Universal Articulatory Space Modeling for Multilingual Indic-to-English Speech-to-Speech Translation",
+  "authors": "Khushal Yadav; Vinayak Abrol",
+  "affiliations": "IIIT Delhi",
+  "institutions": [
+   "IIIT Delhi"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/yadav26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 6,
+  "title": "Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS",
+  "authors": "Sandipan Dhar; Nirmesh J. Shah; Ashishkumar P. Gudmalwar; Pankaj Wasnik",
+  "affiliations": "Sony Research India",
+  "institutions": [
+   "Sony Research India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/dhar26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 7,
+  "title": "Adaptive Turn-Taking for Real-time Multi-Party Voice Agents",
+  "authors": "Soumyajit Mitra; Prabhat Pandey; Abhinav Jain; Shanmukha Sahith; K V Vijay Girish",
+  "affiliations": "IIT Kharagpur (Amazon AGI co-authors)",
+  "institutions": [
+   "IIT Kharagpur"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/mitra26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 8,
+  "title": "Aligning Audio Captions with Human Preferences",
+  "authors": "Kartik Hegde; Rehana Mahfuz; Yinyi Guo; Erik Visser",
+  "affiliations": "Qualcomm Technologies India",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/hegde26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 9,
+  "title": "An auscultation location specific study on the relationship between expiratory-to-inspiratory acoustic patterns and spirometric airflow limitation across age and gender in asthmatic patients",
+  "authors": "Dheeraj Harish Kumar; Sanjana MC; Perumal Keerthi Priya; K V Nikhath Khanam; Uma Maheshwari Krishnaswamy; Prasanta Kumar Ghosh",
+  "affiliations": "IISc Bangalore; St. John's National Academy of Health Sciences",
+  "institutions": [
+   "IISc Bangalore"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kumar26g_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 10,
+  "title": "AnySimLite: A Lightweight Few-Shot Similarity Encoder for On-Device Speech-Adjacent Classification",
+  "authors": "Sourav Ghosh; Yash Bhatia; Keshav Goyal; Sahil Singh Bagri; Mohamed Akram Ulla Shariff; Saravana Balaji Shanmugam",
+  "affiliations": "Samsung R&D Institute Bangalore",
+  "institutions": [
+   "Samsung R&D India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/ghosh26e_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Representations & signal analysis"
+ },
+ {
+  "id": 11,
+  "title": "Avoiding Catastrophic Forgetting in Text-Only Adaptation of LLM-based ASR via Multi-View Text Denoising",
+  "authors": "Sergio Burdisso; Esaú Villatoro-Tello; Thibault Bañeras-Roux; Shashi Kumar; Srikanth Madikeri; Pradeep Rangappa; Manjunath K E; Petr Motlicek; Andreas Stolcke",
+  "affiliations": "Uniphore (USA & India)",
+  "institutions": [
+   "Uniphore India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/burdisso26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 12,
+  "title": "Benchmarking Speech Systems for Frontline Health Conversations: The DISPLACE-M Challenge",
+  "authors": "Dhanya E; Ankita Meena; Manas Nanivadekar; Noumida A; Victor Azad; Ashwini Nagaraj Shenoy; Pratik Roy Chowdhuri; Shobhit Banga; Vanshika Chhabra; Chitralekha Bhati; Shareef babu Kalluri; Srikanth Raj Chetupalli; Deepu Vijayasenan; Sriram Ganapathy",
+  "affiliations": "IISc Bangalore (LEAP Lab); NITK Surathkal; Josh Talks; TANUH IISc; others",
+  "institutions": [
+   "IISc Bangalore",
+   "Josh Talks"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/e26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 13,
+  "title": "Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR",
+  "authors": "Fiza Husain; Ankit Pandey; Yash Singh",
+  "affiliations": "Stimuler, Bengaluru",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/husain26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 14,
+  "title": "Boundaryless Speech-to-Syllable Representations with Hierarchical CNN for Linguistically Inspired Automatic Stress Detection",
+  "authors": "Namrata Mokshagundam; Sai Harshitha Aluru; Chiranjeevi Yarra",
+  "affiliations": "IIIT Hyderabad (LTRC)",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/mokshagundam26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 15,
+  "title": "Bridging the Age Gap: Towards Detecting Neural Audio Codec Synthesized Elderly Speech Deepfake",
+  "authors": "Orchid Chetia Phukan; Girish; Mohd Mujtaba Akhtar; Chi-Chun Lee",
+  "affiliations": "UPES; VBSPU",
+  "institutions": [
+   "VBSPU / UPES / Manipal (Girish, Akhtar et al.)"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/phukan26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 16,
+  "title": "ClinAware: Speech Enhancement Needs Clinical Awareness",
+  "authors": "Pramod H. Kachare; Chetana Amancharla",
+  "affiliations": "Infosys Limited",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kachare26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 17,
+  "title": "Closing the Speech-Text Gap with Limited Audio for Effective Domain Adaptation in LLM-Based ASR",
+  "authors": "Thibault Bañeras-Roux; Sergio Burdisso; Esaú Villatoro-Tello; Dairazalia Sánchez-Cortés; Shiran Liu; Severin Baroudi; Shashi Kumar; Hasindri Watawana; Manjunath K E; Kadri Hacioglu; Petr Motlicek; Andreas Stolcke",
+  "affiliations": "Uniphore (USA & India)",
+  "institutions": [
+   "Uniphore India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/banerasroux26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 18,
+  "title": "CodeVaani: A Multilingual, Voice-Based Code Learning Assistant",
+  "authors": "Jayant Havare; Srikanth Tamilselvam; Ashish Mittal; Shalaka Thorat; Soham Jadia; Varsha Apte; Ganesh Ramakrishnan",
+  "affiliations": "IIT Bombay; IBM Research India; Google DeepMind India",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/havare26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 19,
+  "title": "Collection and Curation of a Spontaneous Multilingual Speech Corpus for Low-Resource Himalayan Languages",
+  "authors": "Abhijit Sinha; Subham Kutum; Udara Laxman Kumar; Paban Sapkota; Hemant Kumar Kathania",
+  "affiliations": "NIT Sikkim",
+  "institutions": [
+   "NIT Sikkim"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/sinha26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 20,
+  "title": "Context Projector: Complementary Keyword and Dialogue Context Embeddings for LLM-based ASR",
+  "authors": "Esaú Villatoro-Tello; Sergio Burdisso; Shashi Kumar; Hasindri Watawana; Srikanth Madikeri; Manjunath K E; Jeena Prakash; Thibault Bañeras-Roux; Kadri Hacioglu; Petr Motlicek; Andreas Stolcke",
+  "affiliations": "Uniphore (USA & India)",
+  "institutions": [
+   "Uniphore India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/villatorotello26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 21,
+  "title": "CrossAccent-TTS: Cross-Lingual Accent-Intensity Controllable Text-to-Speech via Disentangled Speaker and Accent Representations",
+  "authors": "Ram Annamdevula; Ankit Tatawat; Ashishkumar P. Gudmalwar; Nirmesh J. Shah; Pankaj Wasnik",
+  "affiliations": "Sony Research India",
+  "institutions": [
+   "Sony Research India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/annamdevula26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 22,
+  "title": "DLLM-TTS: Block Discrete Diffusion Language Model for Text-to-Speech Synthesis",
+  "authors": "Wasim Madha; Nityanand Mathur; Hamees Sayed; Apoorv Singh; Sameer Khurana; Akshat Mandloi; Sudarshan Kamath",
+  "affiliations": "Smallest.ai",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/madha26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 23,
+  "title": "DsNA (Digital sigNature for Audios): A Unique Method to Fingerprint Audio Files Generated by Text to Speech",
+  "authors": "Vishal Gourav; Phanindra Mankale",
+  "affiliations": "Oracle India",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/gourav26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 24,
+  "title": "Duration-Aware Soft Targets for Text-Independent Supervised Phone Segmentation",
+  "authors": "Raghavan Ramesh; Meka Nani; Sri Rama Murty Kodukula",
+  "affiliations": "IIT Hyderabad",
+  "institutions": [
+   "IIT Hyderabad"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/ramesh26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 25,
+  "title": "DysfluentNet: Joint Stuttering Event Detection and Dysfluency-Aware Transcription via Hierarchical Self-Supervised Learning",
+  "authors": "Mohankumar Muthu; Sasikala E; Girirajan S",
+  "affiliations": "SRM Institute of Science and Technology, Chennai",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/muthu26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 26,
+  "title": "ECAPA-TDNN-based Speaker Embedding Framework for Voice Mimicry Assessment",
+  "authors": "Bhasi K.C.; Rajeev Rajan",
+  "affiliations": "Govt. Engineering College Barton Hill; Govt. Engineering College Idukki; APJ Abdul Kalam Technological University",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kc26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 27,
+  "title": "Error Diversity and Performance Variability in Zero-Shot Children's Speech Recognition",
+  "authors": "Abhijit Sinha; Hemant Kumar Kathania; Paban Sapkota; Mikko Kurimo",
+  "affiliations": "NIT Sikkim",
+  "institutions": [
+   "NIT Sikkim"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/sinha26b_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 28,
+  "title": "Evaluation of forced alignment of code-mixed speech: the case of Hindi-English",
+  "authors": "Ayushi Pandey; Pamir Gogoi; Kevin Tang",
+  "affiliations": "Karya",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/pandey26b_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 29,
+  "title": "Exploiting EEG-based Gamma-Band Time Frequency Feature in WaveNet Decoder Framework for High-Fidelity Speech Reconstruction",
+  "authors": "Rantu Buragohain; Saket Maheshwari; Karan Nathwani",
+  "affiliations": "IIT Jammu; GLA University, Mathura",
+  "institutions": [
+   "IIT Jammu"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/buragohain26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 30,
+  "title": "From Rhythm Metrics to Latent Embeddings: Categorising English and Hindi Varieties in Northeast India",
+  "authors": "John Aheibam; Joyshree Chakraborty; Priyankoo Sarmah; Rohit Sinha",
+  "affiliations": "IIT Guwahati",
+  "institutions": [
+   "IIT Guwahati"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/aheibam26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 31,
+  "title": "From Signals to Patterns: Non-Invasive Tuberculosis Detection from Cough Audio using Bandit Weighted Hyperbolic Prototypes",
+  "authors": "Mohd Mujtaba Akhtar; Girish; Sanjam Wadhwa; Muskaan Singh; Ning Ma",
+  "affiliations": "Thapar Institute of Engineering and Technology",
+  "institutions": [
+   "Thapar Institute"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/akhtar26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 32,
+  "title": "Gender Bias in ASR: A Controlled Study of Gender Composition Across Training Paradigms",
+  "authors": "Seshan S; Murali Kadambi; Amartya Veer; Prasanta Kumar Ghosh",
+  "affiliations": "IISc Bangalore (SPIRE Lab)",
+  "institutions": [
+   "IISc Bangalore"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/s26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 33,
+  "title": "HybridCodec: Fast Dual-Stream, Semantically Enhanced Neural Audio Codec",
+  "authors": "Arjun Gangwar; S Umesh",
+  "affiliations": "IIT Madras",
+  "institutions": [
+   "IIT Madras"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/gangwar26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 34,
+  "title": "IACC-HuBERT: Intelligibility-Aware Channel Conditioning of HuBERT Frontend for Dysarthric Speech Conformer ASR",
+  "authors": "Paban Sapkota; Hemant Kumar Kathania",
+  "affiliations": "NIT Sikkim",
+  "institutions": [
+   "NIT Sikkim"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/sapkota26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 35,
+  "title": "IN-F5: Adapting an English TTS Foundation Model for Multilingual and Zero-Resource Indian Speech Synthesis",
+  "authors": "Praveen Srinivasa Varadhan; Srija Anand; Siddhartha Soma; Mitesh M Khapra",
+  "affiliations": "AI4Bharat / IIT Madras; Saryps Labs",
+  "institutions": [
+   "IIT Madras"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/varadhan26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 36,
+  "title": "Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack",
+  "authors": "Nitin Choudhury; Bikrant Bikram Pratap Maurya; Arun Balaji Buduru; Orchid Chetia Phukan",
+  "affiliations": "IIIT Delhi",
+  "institutions": [
+   "IIIT Delhi"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/choudhury26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 37,
+  "title": "Improving Adversarial Robustness in Spoken Language Identification through Self-Defensive Distillation",
+  "authors": "Spandan Dey",
+  "affiliations": "Samsung R&D Institute India-Bangalore",
+  "institutions": [
+   "Samsung R&D India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/dey26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 38,
+  "title": "Indic DiarBench: A Multilingual Joint Diarization and ASR Benchmark for Indian Languages",
+  "authors": "Deovrat Mehendale; Aditya Mehndiratta; Dhruv Subhash Rathi; Kaushal Bhogale; Mitesh M Khapra",
+  "affiliations": "Sarvam AI; AI4Bharat / IIT Madras",
+  "institutions": [
+   "IIT Madras",
+   "Sarvam AI"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/mehendale26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 39,
+  "title": "IndicContextEval: A Benchmark for Evaluating Context Utilisation in Audio Large Language Models Across 8 Indic Languages",
+  "authors": "Sakshi Joshi; Dhruv Subhash Rathi; Sanskar Singh; Eldho Ittan George; R J Hari; Kaushal Bhogale; Mitesh M Khapra",
+  "affiliations": "AI4Bharat / IIT Madras; Sarvam AI",
+  "institutions": [
+   "IIT Madras",
+   "Sarvam AI"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/joshi26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 40,
+  "title": "Investigating the Relationship between Objective AI-driven Metrics and Subjective MOS for In-the-Wild Speech",
+  "authors": "Jasmer Sanjotra; Nagendra Kumar; Shekhar Nayak",
+  "affiliations": "IIT Indore",
+  "institutions": [
+   "IIT Indore"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/sanjotra26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 41,
+  "title": "Less can be More: What Aspects of Speech Drive End-of-Turn Detection",
+  "authors": "Rini Sharon; Manickavela A; Kadri Hacioglu; Andreas Stolcke",
+  "affiliations": "Uniphore India",
+  "institutions": [
+   "Uniphore India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/sharon26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 42,
+  "title": "Lightweight Cross-Lingual Speaker Adaptation for Indic TTS",
+  "authors": "Tarun Kumar; Keshav Agarwal; Pawan Goyal; Laxmidhar Behera; Hema A. Murthy",
+  "affiliations": "IIT Mandi; IIT Madras; IIT Kharagpur",
+  "institutions": [
+   "IIT Madras",
+   "IIT Kharagpur",
+   "IIT Mandi"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kumar26e_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 43,
+  "title": "LipAdapter: Text-to-Video Alignment is All You Need for Lip-to-Speech",
+  "authors": "Souvik Ghosh; C. V. Jawahar; Vinay Namboodiri",
+  "affiliations": "IIIT Hyderabad",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/ghosh26b_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 44,
+  "title": "Listening Like a Judge: A Music-Aware Framework for Automatic Singing Performance Evaluation",
+  "authors": "Neelam Saini; Sourav Ghosh",
+  "affiliations": "Samsung R&D Institute Bangalore",
+  "institutions": [
+   "Samsung R&D India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/saini26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 45,
+  "title": "MAC-VAD: A Modality-Aligned Cross-Attentive Framework for Robust Voice Activity Detection",
+  "authors": "Bruhanth Mallik; Chintan Tundia; Kumud Tripathi; Shreyas Nagoor; Pankaj Wasnik",
+  "affiliations": "Sony Research India",
+  "institutions": [
+   "Sony Research India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/mallik26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 46,
+  "title": "ML-KD-DRI-GAN: Teacher-Guided Denoising and Triplet-Adversarial Training for Robust Spoken Language Understanding",
+  "authors": "Ankit Kumar; Munir Georges",
+  "affiliations": "Galgotias University, Greater Noida",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kumar26b_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 47,
+  "title": "MultiEmoVec: Learning Generalised Multimodal Emotion Representation by Momentum Contrast and Multi-task Reconstruction",
+  "authors": "Junchen Liu; Jesin James; Karan Nathwani; Michael Witbrock",
+  "affiliations": "IIT Jammu",
+  "institutions": [
+   "IIT Jammu"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/liu26m_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 48,
+  "title": "Multilingual Multi-Speaker Unit Vocoders: A Systematic Analysis of Discrete Speech Representations",
+  "authors": "Naman Kothari; Arjun Gangwar; Adarsh Arigala; S Umesh",
+  "affiliations": "NIT Trichy; IIT Madras",
+  "institutions": [
+   "IIT Madras"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kothari26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 49,
+  "title": "Negation in Audio Generation Models",
+  "authors": "Arjun Arora; Anshul Jain; Gubbala Mohith Nukesh; Bikash Dutta; Richa Singh; Mayank Vatsa",
+  "affiliations": "IIT Jodhpur",
+  "institutions": [
+   "IIT Jodhpur"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/arora26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 50,
+  "title": "Overcoming Decoder Inconsistencies in Whisper for Dravidian and Low-Resource Languages",
+  "authors": "Chowdam Venkata Kumar; Kumud Tripathi; Pankaj Wasnik",
+  "affiliations": "Sony Research India",
+  "institutions": [
+   "Sony Research India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kumar26c_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 51,
+  "title": "Post-ASR Proper Noun Grounding via Multi-View Phonetic and Semantic Retrieval",
+  "authors": "Pranshu Nema; Kush Shrivastava; Bhavik Vachhani; Rustom Lawyer",
+  "affiliations": "Augnito India",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/nema26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 52,
+  "title": "Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages",
+  "authors": "Srija Anand; Ashwin Sankar; Ishvinder Sethi; Aaditya Pareek; Kartik Rajput; Gaurav Yadav; Nikhil Narasimhan; Adish Pandya; Deepon Halder; Mohammed Safi Ur Rahman Khan; Praveen Srinivasa Varadhan; Shobhit Banga; Mitesh M Khapra",
+  "affiliations": "IIT Madras; AI4Bharat; Josh Talks",
+  "institutions": [
+   "IIT Madras",
+   "Josh Talks"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/anand26b_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 53,
+  "title": "ProSarc: Prosody-Aware Sarcasm Recognition Framework via Temporal Prosodic Incongruity",
+  "authors": "Prathamjyot Singh; Ashima Sood; Sahil Sharma; Jasmeet Singh",
+  "affiliations": "Thapar Institute of Engineering and Technology, Patiala",
+  "institutions": [
+   "Thapar Institute"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/singh26e_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 54,
+  "title": "Probing LoRA-to-LoRA Cross-Lingual Transfer for Unseen Low-Resource Conditions in Whisper-Based ASR",
+  "authors": "Hirak Mondal; Spandan Dey; Gopal Agrawal",
+  "affiliations": "Samsung R&D Institute Bangalore",
+  "institutions": [
+   "Samsung R&D India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/mondal26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 55,
+  "title": "Progressive Learning for Robust Speaker Representation",
+  "authors": "Nikhil Keetha; Hima Jyothi R; Nivedita Chennupati; Balaji Padmanaban; Harish Rajamani; Naveen Ambati",
+  "affiliations": "Meeami Technologies",
+  "institutions": [
+   "Meeami Technologies"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/keetha26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 56,
+  "title": "QuadVAD: Fine-Grained Speech Detection with a Compact Architecture",
+  "authors": "Ramakrishna Chaitanya Rachumallu; Nivedita Chennupati; Ankit Gupta; Balaji Padmanaban; ParvathiPriyanka Bolla; Harish Rajamani; Naveen Ambati",
+  "affiliations": "Meeami Technologies",
+  "institutions": [
+   "Meeami Technologies"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/rachumallu26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 57,
+  "title": "Rank-Distance Based Confidence Estimation for ASR",
+  "authors": "Nagarathna Ravi; Madduri Aiswarya Lakshmi; Ragesh M; Rajalakshmi Elangovan",
+  "affiliations": "CSIR Fourth Paradigm Institute",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/ravi26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 58,
+  "title": "Refining the Latent Bridge: Superior ASR Performance via Adapter-Only Alignment with Diffusion LLMs",
+  "authors": "Puneet Singh Bhooi; Vinayak Abrol",
+  "affiliations": "IIIT Delhi",
+  "institutions": [
+   "IIIT Delhi"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/bhooi26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 59,
+  "title": "Rethinking Organization Entity Modeling in End-to-End Acoustic Named Entity Recognition",
+  "authors": "Spandan Dey; Nidhi Mantri; Sambit Behera; Hirak Mondal; Sanjay Kurmi; Sreyasree Mandal; Atharv Joshi; Premjeet Singh; Gopal Agrawal",
+  "affiliations": "Samsung R&D Institute India-Bangalore",
+  "institutions": [
+   "Samsung R&D India"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/dey26b_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 60,
+  "title": "Robust Language Identification Using Semi-positive Contrastive Learning",
+  "authors": "Shubham Sharma; Padmanabhan Rajan",
+  "affiliations": "IIT Mandi",
+  "institutions": [
+   "IIT Mandi"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/sharma26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 61,
+  "title": "SCRIBE: Diagnostic Evaluation and Rich Transcription Models for Indic ASR",
+  "authors": "Kavya Manohar; Arghya Bhattacharya; Kush Juvekar; Kumarmanas Nethil",
+  "affiliations": "Adalat AI",
+  "institutions": [
+   "Adalat AI"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/manohar26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 62,
+  "title": "Say That Again: Visualizing Paralinguistic Cues with Prosody-Aware Diffusion",
+  "authors": "Shyamji Tiwari",
+  "affiliations": "Independent Researcher, India",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/tiwari26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 63,
+  "title": "Scalable Neural TTS for Latin-Script Low-Resource Languages of Manipur",
+  "authors": "Hoomexsun Pangsatabam; Khumanthem Chanchanbi; Kansham Tungran Maring; Yambem Jina Chanu",
+  "affiliations": "NIT Manipur",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/pangsatabam26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 64,
+  "title": "Selective Capability Unlearning in End-to-End Spoken Language Understanding",
+  "authors": "Akanksha Singh; Vinod Kumar Kurmi",
+  "affiliations": "IISER Bhopal",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/singh26d_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 65,
+  "title": "SingFox: A Multi-Lingual Singfake Detection Corpus",
+  "authors": "Arth J. Shah; Devanshi K. Trivedi; Himanshi U. Borad; Hemant A. Patil",
+  "affiliations": "Dhirubhai Ambani University (DAU), Gandhinagar; SCET Surat",
+  "institutions": [
+   "Dhirubhai Ambani University (DA-IICT)"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/shah26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 66,
+  "title": "Spashta Audio-Bench: Unified ASR and TTS Evaluation Framework across Indian Languages",
+  "authors": "Bikash Dutta; Siddhant Gahankari; Abhinav Kumar; Siddarth Modugu; Shalini Kapoor; Mayank Vatsa; Richa Singh",
+  "affiliations": "IIT Jodhpur; EkStep Foundation",
+  "institutions": [
+   "IIT Jodhpur"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/dutta26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 67,
+  "title": "Spontaneous Dialect-Aware Speech Corpus for Low-Resource Dakhini, A Southern Indo-Aryan Language: Methods, Challenges, and Insights",
+  "authors": "Anindita Mondal; Priyanka Kommagouni",
+  "affiliations": "IIIT Hyderabad (LTRC)",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/mondal26b_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 68,
+  "title": "SuTRA: Structurally-Unified Tokenization with Root Awareness",
+  "authors": "Vaibhav Rathore; Siddhant Gole; Dadhichi Telwadkar; Rooshil Bhatia; Maulik Ruparel; Siddharth Surekha; Neha Bhargava",
+  "affiliations": "Motilal Oswal Financial Services; IIT Bombay",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/rathore26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 69,
+  "title": "Synergizing Zero-Shot Cross-Lingual Alzheimer Detection with Language-Invariant Multimodal Bi-Geometric Adversarial Learning",
+  "authors": "Girish; Mohd Mujtaba Akhtar; Farhan Sheth; Muskaan Singh; Juliana Gerard; Paula McClean; Kongfatt Wong-Lin",
+  "affiliations": "Manipal University",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/girish26b_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 70,
+  "title": "The First Dravidian Speech Datasets for Transphobic and Homophobic Hate Speech: Creation, Annotation, and Multimodal Benchmarking",
+  "authors": "K N Lakshmi; K Hemavardhan Reddy; A Venkata Satya; Kota Venkata Vamshidhar Reddy; Jyothish Lal G; Premjith B; Jesin James",
+  "affiliations": "Amrita Vishwa Vidyapeetham, Coimbatore",
+  "institutions": [
+   "Amrita Vishwa Vidyapeetham"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/lakshmi26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 71,
+  "title": "Through-Wall Radar Speech Acquisition via Cascaded Attention Fusion",
+  "authors": "Ruotong Ding; Zhi-Wei Tan; V.G. Reju; Andy W. H. Khong",
+  "affiliations": "Cochin University of Science and Technology",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/ding26c_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 72,
+  "title": "Tongue2Speech: Real-Time Speech Synthesis from Tongue Ultrasound Videos via Spatiotemporal Transformers",
+  "authors": "Yash Sonkar; Yasaswi Kilaru; Sudheera Yelimeli; Neil Shah; Vineet Gandhi",
+  "affiliations": "IIIT Hyderabad (CVIT); TCS Research Pune",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/sonkar26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 73,
+  "title": "Towards Detecting Neural Audio Codec Synthesized Heart Sounds",
+  "authors": "Girish; Orchid Chetia Phukan; Mohd Mujtaba Akhtar; Bhavinkumar Vinodbhai Kuwar; Swarup Ranjan Behera; Arun Balaji Buduru",
+  "affiliations": "UPES; VBSPU; IIIT Delhi",
+  "institutions": [
+   "IIIT Delhi",
+   "VBSPU / UPES / Manipal (Girish, Akhtar et al.)"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/girish26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 74,
+  "title": "Towards a Phonology-Informed Evaluation of Multilingual TTS",
+  "authors": "Sneha Ray Barman; Neeraj Kumar Sharma; Shakuntala Mahanta",
+  "affiliations": "IIT Guwahati",
+  "institutions": [
+   "IIT Guwahati"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/raybarman26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 75,
+  "title": "UFL-GAN: A Multi-Discriminator GAN for Unsupervised Speech Enhancement",
+  "authors": "Satvik Bejugam; Venkatesh Parvathala; Sri Rama Murty Kodukula",
+  "affiliations": "IIT Hyderabad (Speech Information Processing Lab); Eternal Limited",
+  "institutions": [
+   "IIT Hyderabad"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/bejugam26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 76,
+  "title": "V-Align: Visual Forced Alignment via Phoneme to Video Optimal Path Traversal",
+  "authors": "Souvik Ghosh; C. V. Jawahar; Vinay Namboodiri",
+  "affiliations": "IIIT Hyderabad",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/ghosh26c_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 77,
+  "title": "VINAYAKA: Multilingual Audio-Visual Hate Speech Detection via Cross-Modal Fusion in Hyperbolic Space",
+  "authors": "Bhavinkumar Vinodbhai Kuwar; Orchid Chetia Phukan; Rajesh Sharma",
+  "affiliations": "Plaksha University; IIIT Delhi",
+  "institutions": [
+   "IIIT Delhi"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kuwar26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 78,
+  "title": "Vimarsha: Faithful ASR Evaluation for Indian Languages with Demographic Diversity, In-the-Wild Audio and Spelling Variations",
+  "authors": "Kaushal Bhogale; Srija Anand; Sadakopa Ramakrishnan Thothathiri; Tahir Javed; Sshubam Verma; Mitesh M Khapra",
+  "affiliations": "IIT Madras; Sarvam AI",
+  "institutions": [
+   "IIT Madras",
+   "Sarvam AI"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/bhogale26b_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 79,
+  "title": "Vividh-ASR: A Complexity-Tiered Benchmark and Optimization Dynamics for Robust Indic Speech Recognition",
+  "authors": "Kush Juvekar; Kavya Manohar; Aditya Srinivas Menon; Arghya Bhattacharya; Kumarmanas Nethil",
+  "affiliations": "Adalat AI",
+  "institutions": [
+   "Adalat AI"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/juvekar26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 80,
+  "title": "Voice of India: A Large-Scale Benchmark for Real-World Speech Recognition in India",
+  "authors": "Kaushal Bhogale; Manas Dhir; Amritansh Walecha; Manmeet Kaur; Vanshika Chhabra; Aaditya Pareek; Hanuman Sidh; Sagar Jain; Bhaskar Singh; Utkarsh Singh; Tahir Javed; Shobhit Banga; Mitesh M Khapra",
+  "affiliations": "IIT Madras; Josh Talks",
+  "institutions": [
+   "IIT Madras",
+   "Josh Talks"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/bhogale26_interspeech.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 81,
+  "title": "VāṇīSetu: A Human-AI Collaborative Framework for Scalable Conversational Speech Corpus Creation in Low-Resource Settings",
+  "authors": "Rishabh Kumar; Dhruv Kudale; Chriss Philip Saji; Abhinav Painuli; John Nirmal; Ganesh Ramakrishnan",
+  "affiliations": "IIT Bombay; UST; University of Delhi; BharatGen",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kumar26h_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 82,
+  "title": "WaveNorm: A Low-Complexity Time-Domain Neural Adaptive Gain Control for Real-Time Speech Applications",
+  "authors": "Deepika Ijjada; Charan Kumar Reddy B; Ashwini Hanaganti; Priyanka Devrao Jadhav; Varsha Uppalanchi; Balaji Padmanaban; Nivedita Chennupati; Karunakar Reddy Pucchakayala; Harish Rajamani; Naveen Ambati",
+  "affiliations": "Meeami Technologies, Hyderabad",
+  "institutions": [
+   "Meeami Technologies"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/ijjada26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 83,
+  "title": "WaveNorm: Real-Time Neural AGC for Noise-Robust Speech Enhancement on Resource-Constrained Edge Devices",
+  "authors": "Deepika Ijjada; Charan Kumar Reddy B; Ashwini Hanaganti; Priyanka Devrao Jadhav; Varsha Uppalanchi; Nivedita Chennupati; Karunakar Reddy Pucchakayala; Balaji Padmanaban; Harish Rajamani; Naveen Ambati",
+  "affiliations": "Meeami Technologies, Hyderabad",
+  "institutions": [
+   "Meeami Technologies"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/ijjada26b_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 84,
+  "title": "What Counts as an Error? Dual-Reference Benchmarking for Atypical ASR",
+  "authors": "Hawau Olamide Toyin; S Umesh; Hanan Aldarmaki",
+  "affiliations": "IIT Madras (SPRING Lab)",
+  "institutions": [
+   "IIT Madras"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/toyin26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 85,
+  "title": "WhiSSDapt: Adaptive Fusion of Whisper Layer Embeddings for Sentence Stress Detection",
+  "authors": "Someshwaran Murugaiyan; Jhansi Mallela; Chiranjeevi Yarra",
+  "affiliations": "VIT; IIIT Hyderabad (LTRC)",
+  "institutions": [
+   "IIIT Hyderabad",
+   "VIT Vellore"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/murugaiyan26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 86,
+  "title": "Who Synthesized This? Joint Deepfake Detection and Generative Source Attribution",
+  "authors": "Vishal Kumar; Vinayak Abrol; Mathew Magimai Doss",
+  "affiliations": "IIIT Delhi",
+  "institutions": [
+   "IIIT Delhi"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/kumar26f_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 87,
+  "title": "mmWave Radar Aware Dual-Conditioned GAN for Speech Reconstruction of Signals With Low SNR",
+  "authors": "Jash Karani; Adithya Chittem; Deepan Roy; Sandeep Joshi",
+  "affiliations": "BITS Pilani",
+  "institutions": [],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/karani26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 88,
+  "title": "wav2tok 2.0: Scalable Audio Tokenization Maintaining Explicit Pairwise Token Alignment for Efficient Audio Retrieval",
+  "authors": "Adhiraj Banerjee; Vipul Arora",
+  "affiliations": "IIT Kanpur",
+  "institutions": [
+   "IIT Kanpur"
+  ],
+  "venue": "Interspeech 2026",
+  "venue_type": "Conference",
+  "date": "2026-09",
+  "link": "https://www.isca-archive.org/interspeech_2026/banerjee26_interspeech.html",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 89,
+  "title": "AVATAR: Audio-Visual Adaptive Fusion via Trained Agent Reinforcement for Multimodal Deepfake Detection",
+  "authors": "Ebad Shabbir; Pushkar Arora; Rakshita Saksainaa; Tiange Xie; Jiechao Gao",
+  "affiliations": "DSEU Okhla, New Delhi",
+  "institutions": [],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464081",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 90,
+  "title": "Adaptive Closed-form DoA Estimation in the Spherical Harmonics Domain",
+  "authors": "S. Joel; Shekhar Kumar Yadav; Nithin V. George",
+  "affiliations": "Indian Institute of Technology Gandhinagar",
+  "institutions": [
+   "IIT Gandhinagar"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11465004",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 91,
+  "title": "Attention-Guided Audio Compression for Multimodal LLMs",
+  "authors": "Prerana Rane; Amitesh Vatsa; Yash Pethe; Ogan Batu Aktolun; Kevin A. Li; Ishan Singh",
+  "affiliations": "Indian Institute of Technology BHU",
+  "institutions": [
+   "IIT BHU"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11461737",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 92,
+  "title": "Benchmarking Humans And Machines On Complex Multilingual Speech Understanding Tasks",
+  "authors": "Sai Samrat Kankanala; Ram Chandra; Sriram Ganapathy",
+  "affiliations": "Indian Institute of Science Bangalore",
+  "institutions": [
+   "IISc Bangalore"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11461348",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 93,
+  "title": "Bleed No More: Generative Interference Reduction for Musical Recordings",
+  "authors": "Rajesh R; Rashen Fernando; Padmanabhan Rajan; Ryan M. Corey",
+  "affiliations": "Indian Institute of Technology Mandi",
+  "institutions": [
+   "IIT Mandi"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11460429",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 94,
+  "title": "CMSA-Mamba: Hierarchical State Space Modeling for Audio-Based Depression Detection",
+  "authors": "Lokesh Kumar; Tonmoy Rajkhowa; Sanjeev Sharma",
+  "affiliations": "Indian Institute of Technology BHU",
+  "institutions": [
+   "IIT BHU"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11460844",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 95,
+  "title": "Can Hierarchical Cross-Modal Fusion Predict Human Perception of AI Dubbed Content?",
+  "authors": "Ashwini Dasare; Nirmesh Shah; Ashishkumar Prabhakar Gudmalwar; Pankaj Wasnik",
+  "affiliations": "Sony Research India",
+  "institutions": [
+   "Sony Research India"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11462270",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 96,
+  "title": "Cross-Modal Semantic Alignment Via Ensemble Audio-Text Features for XACLE Challenge",
+  "authors": "Snehit B. Chunarkar; Krishnagiri Hamza; Chi-Chun Lee",
+  "affiliations": "SRM University",
+  "institutions": [],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11461274",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 97,
+  "title": "Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition",
+  "authors": "Isha Pandey; Ashish Mittal; Vartul Bahuguna; Ganesh Ramakrishnan",
+  "affiliations": "Indian Institute of Technology Bombay",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11463560",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 98,
+  "title": "Eosign: Edge-Efficient One-Shot ISL Video Synthesis from Code-Mixed Speech with Signer Consistency and Temporal Stability",
+  "authors": "Neelam Saini",
+  "affiliations": "Samsung R&D India",
+  "institutions": [
+   "Samsung R&D India"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11463126",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 99,
+  "title": "Estimating Hand-Related Features from Speech Using Machine Learning",
+  "authors": "Shraddha G. Revankar; Chinmayananda A; Nataraj K. S",
+  "affiliations": "Indian Institute of Technology Dharwad",
+  "institutions": [
+   "IIT Dharwad"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464173",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Representations & signal analysis"
+ },
+ {
+  "id": 100,
+  "title": "Evolving AASIST: Towards Scalable and Generalizable Anti-Spoofing Models",
+  "authors": "Aniket Pandey; Arth J. Shah; Hemant A. Patil",
+  "affiliations": "Dhirubhai Ambani University (DA-IICT)",
+  "institutions": [
+   "Dhirubhai Ambani University (DA-IICT)"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464456",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 101,
+  "title": "Hybrid Continuous Variable Quantum Neural Network for Audio Classification",
+  "authors": "Zainab Aziz; Monika Jain Agrawal",
+  "affiliations": "Indian Institute of Technology Delhi",
+  "institutions": [
+   "IIT Delhi"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464650",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 102,
+  "title": "Improving Active Learning for Melody Estimation by Disentangling Uncertainties",
+  "authors": "Aayush Jaiswal; Parampreet Singh; Vipul Arora",
+  "affiliations": "Indian Institute of Technology Kanpur",
+  "institutions": [
+   "IIT Kanpur"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464457",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 103,
+  "title": "Induced Mood Shift and Cognitive Adaptation During Free Play in a Changing Tonic Context",
+  "authors": "Soham Korade; Suswara Pochampally; T. K. Saroja",
+  "affiliations": "IIIT Hyderabad",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464162",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 104,
+  "title": "Joint Deep Secondary Path Estimation and Adaptive Control for Active Noise Cancellation",
+  "authors": "Fareedha; Vasundhara; Asutosh Kar; Mads Græsbøll Christensen",
+  "affiliations": "National Institute of Technology Warangal",
+  "institutions": [],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11461474",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 105,
+  "title": "Multi-View Hierarchical Hypergraph Neural Network for Automatic Stuttering Detection",
+  "authors": "Pragya Khanna; Anil Kumar Vuppala",
+  "affiliations": "IIIT Hyderabad",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11460488",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 106,
+  "title": "Parametric Analysis of Feature Specific Neural Coding During Music Imagery and Perception",
+  "authors": "Aditi Jha; Derek Lomas; Krishna Miyapuram",
+  "affiliations": "Indian Institute of Technology Gandhinagar",
+  "institutions": [
+   "IIT Gandhinagar"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11463597",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 107,
+  "title": "PosSpec-Net: Enhancing Radar-Based Speech Signals via U-Nets and Positional Vectors",
+  "authors": "Yash Soni; Alokendu Mazumder; Prasant Misra; Punit Rathore",
+  "affiliations": "Robert Bosch (India)",
+  "institutions": [],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11462087",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 108,
+  "title": "Respire-Mamba C-UNet: Consistency-Trained Autoencoder for High-Fidelity Respiratory Sound Compression",
+  "authors": "Rishabh; Yogendra Meena; D Yashwanth Kumar; Kuldeep Singh; Nidhi",
+  "affiliations": "University of Delhi; Delhi Technological University; JNU; J.C. Bose University of Science & Technology, YMCA",
+  "institutions": [],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11461668",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 109,
+  "title": "Shared Representation Learning for Reference-Guided Targeted Sound Detection",
+  "authors": "Shubham Gupta; Adarsh Arigala; B. R. Dilleswari; Sri Rama Murty Kodukula",
+  "affiliations": "Indian Institute of Technology Hyderabad",
+  "institutions": [
+   "IIT Hyderabad"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11463923",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 110,
+  "title": "Stereophonic Acoustic Echo Cancellation Using an Improved Affine Projection Algorithm with Adaptive Multiple Sub-Filters",
+  "authors": "Gagandeep Singh; Asutosh Kar; Rohit Kumar Singh; Vasundhara; Jesper Rindom Jensen; M. G. Christensen",
+  "affiliations": "NIT Jalandhar; NIT Warangal",
+  "institutions": [],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11462547",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 111,
+  "title": "TVP-UNet: Threshold Variance Penalty U-Net for Voice Activity Detection in Dysarthric Speech",
+  "authors": "Aditya Pandey; Tanuka Bhattacharjee; Madassu Keerthipriya; Darshan Chikktimmegowda; Dipti Baskar; B.K. Yamini; Seena Vengalil; Atchayaram Nalini; Ravi Yadav; Prasanta Kumar Ghosh",
+  "affiliations": "Indian Institute of Science Bangalore; NIMHANS; VIT",
+  "institutions": [
+   "IISc Bangalore",
+   "VIT Vellore"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464151",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 112,
+  "title": "Temporal Graph Modeling for Speech Emotion Recognition Using LSTM-Aggregated Multigraph Networks",
+  "authors": "Patitapaban Palo; Pooja Kumawat; Aurobinda Routray",
+  "affiliations": "Indian Institute of Technology Kharagpur",
+  "institutions": [
+   "IIT Kharagpur"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11461805",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 113,
+  "title": "Towards Fair ASR for Second Language Speakers using Fairness Prompted Finetuning",
+  "authors": "Monorama Swain; Bubai Maji; Jagabandhu Mishra; Markus Schedl; Anders Søgaard; Jesper Jensen",
+  "affiliations": "Indian Institute of Technology Kharagpur",
+  "institutions": [
+   "IIT Kharagpur"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464390",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 114,
+  "title": "Towards Orthographically-Informed Evaluation of Speech Recognition Systems for Indian Languages",
+  "authors": "Kaushal Santosh Bhogale; Tahir Javed; Greeshma Susan John; Dhruv Rathi; Akshayasree Padmanaban; Niharika Sri Parasa; Mitesh M. Khapra",
+  "affiliations": "Indian Institute of Technology Madras",
+  "institutions": [
+   "IIT Madras"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464888",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 115,
+  "title": "Unbounded HAT: An E2E Boundary-Independent Automatic Syllable Stress Detection with Hierarchical Attention Based Time-Compression",
+  "authors": "Sai Harshitha Aluru; Namrata Mokshagundam; Chiranjeevi Yarra",
+  "affiliations": "IIIT Hyderabad (OpenAlex says IIT Hyderabad)",
+  "institutions": [
+   "IIIT Hyderabad",
+   "IIT Hyderabad"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11465115",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 116,
+  "title": "Unsupervised Sentence Stress Detection in L2 Spoken English Via Iterative Adaptation of Whisper ASR Framework",
+  "authors": "Jhansi Mallela; Abin Roy; Nowrine Fathima; Reni K. Cherian; Chiranjeevi Yarra",
+  "affiliations": "IIIT Hyderabad",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11462847",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 117,
+  "title": "Whisper-FEST: Single-Channel Far-Field Enhanced Speech-to-text without Parallel Data",
+  "authors": "M A Basha Shaik; Vijendra Raj Apsingekar; Vineeth Rao; Manonmani V. Amarnath; Rahil Khan; Mohammed Iqbal; Manonmani Srinivasan",
+  "affiliations": "Samsung R&D India",
+  "institutions": [
+   "Samsung R&D India"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11461038",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 118,
+  "title": "Windowed SummaryMixing: An Efficient Fine-Tuning of Self-Supervised Learning Models for Low-Resource Speech Recognition",
+  "authors": "Aditya Srinivas Menon; Kumud Tripathi; Raj Prakash Gohil; Pankaj Wasnik",
+  "affiliations": "Sony Research India",
+  "institutions": [
+   "Sony Research India"
+  ],
+  "venue": "ICASSP 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1109/icassp55912.2026.11464133",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 119,
+  "title": "AdaBit-TasNet: Speech Separation with Inference Adaptable Precision",
+  "authors": "Mohamed Elminshawi; Srikanth Raj Chetupalli; Emanuël A. P. Habets",
+  "affiliations": "Indian Institute of Technology Bombay",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "ASRU 2025",
+  "venue_type": "Conference",
+  "date": "2025-12",
+  "link": "https://doi.org/10.1109/asru65441.2025.11434690",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 120,
+  "title": "Bottleneck Transformer-Based Approach for Improved Automatic STOI Score Prediction",
+  "authors": "Amartyaveer; Murali Kadambi; Chandra Mohan Sharma; Anupam Mandal; Prasanta Ghosh",
+  "affiliations": "Indian Institute of Science Bangalore; CAIR (DRDO)",
+  "institutions": [
+   "IISc Bangalore"
+  ],
+  "venue": "ASRU 2025",
+  "venue_type": "Conference",
+  "date": "2025-12",
+  "link": "https://doi.org/10.1109/asru65441.2025.11434770",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 121,
+  "title": "JOOCI: a Novel Method for Learning Comprehensive Speech Representations",
+  "authors": "Hemant Yadav; Sunayana Sitaram; Rajiv Ratn Shah",
+  "affiliations": "IIIT Delhi; Microsoft Research India",
+  "institutions": [
+   "IIIT Delhi"
+  ],
+  "venue": "ASRU 2025",
+  "venue_type": "Conference",
+  "date": "2025-12",
+  "link": "https://doi.org/10.1109/asru65441.2025.11434653",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Representations & signal analysis"
+ },
+ {
+  "id": 122,
+  "title": "Joint Multimodal Contrastive Learning for Robust Spoken Term Detection and Keyword Spotting",
+  "authors": "Ramesh Gundluru; Shubham Gupta; K. Sri Rama Murty",
+  "affiliations": "Indian Institute of Technology Hyderabad; Intel India",
+  "institutions": [
+   "IIT Hyderabad"
+  ],
+  "venue": "ASRU 2025",
+  "venue_type": "Conference",
+  "date": "2025-12",
+  "link": "https://doi.org/10.1109/asru65441.2025.11434681",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 123,
+  "title": "MADASR 2.0: Multi-Lingual Multi-Dialect ASR Challenge in 8 Indian Languages",
+  "authors": "Saurabh Kumar; Sumit Sharma; G Deekshitha; Abhayjeet Singh; Amartyaveer; Sathvik Udupa; Sandhya Badiger; Sanjeev P. Khudanpur; Sunayana Sitaram; S. Umesh; Bhuvana Ramabhadran; Brian E. D. Kingsbury; Hema A. Murthy; Srikanth Narayanan; Howard Lakougna; Prasanta Kumar Ghosh",
+  "affiliations": "Indian Institute of Science Bangalore; Microsoft Research India; Indian Institute of Technology Madras",
+  "institutions": [
+   "IIT Madras",
+   "IISc Bangalore"
+  ],
+  "venue": "ASRU 2025",
+  "venue_type": "Conference",
+  "date": "2025-12",
+  "link": "https://doi.org/10.1109/asru65441.2025.11434729",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 124,
+  "title": "ULTRAS - Unified Learning of Transformer Representations for Audio and Speech Signals",
+  "authors": "P E Ameenudeen; C. K. Narayanan; Sriram Ganapathy",
+  "affiliations": "Indian Institute of Science Bangalore",
+  "institutions": [
+   "IISc Bangalore"
+  ],
+  "venue": "ASRU 2025",
+  "venue_type": "Conference",
+  "date": "2025-12",
+  "link": "https://doi.org/10.1109/asru65441.2025.11434696",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Representations & signal analysis"
+ },
+ {
+  "id": 125,
+  "title": "ASVspoof 5: Evaluation of Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech",
+  "authors": "Xin Wang; Héctor Delgado; Nicholas Evans; Xuechen Liu; Tomi Kinnunen; Hemlata Tak; Kong Aik Lee; Ivan Kukanov; Md Sahidullah; Massimiliano Todisco; Junichi Yamagishi",
+  "affiliations": "TCG CREST, Kolkata",
+  "institutions": [],
+  "venue": "IEEE/ACM TASLP",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/taslpro.2026.3682962",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 126,
+  "title": "Automatic Detection and Analysis of Singing Mistakes for Music Learning by Imitation",
+  "authors": "Sumit Kumar; Suraj Jaiswal; Parampreet Singh; Vipul Arora",
+  "affiliations": "Indian Institute of Technology Kanpur",
+  "institutions": [
+   "IIT Kanpur"
+  ],
+  "venue": "IEEE/ACM TASLP",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/taslpro.2026.3682047",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 127,
+  "title": "Compressing Quaternion Convolutional Neural Networks for Audio Classification",
+  "authors": "Arshdeep Singh; Vinayak Abrol; Mark D. Plumbley",
+  "affiliations": "IIIT Delhi",
+  "institutions": [
+   "IIIT Delhi"
+  ],
+  "venue": "IEEE/ACM TASLP",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/taslpro.2026.3677690",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 128,
+  "title": "Few-Shot Learning Model With Small Scale Pre-Training for Cross-Lingual E2E ASR",
+  "authors": "Dhanya Eledath; Angshuman Das; V. Ramasubramanian",
+  "affiliations": "IIIT Bangalore",
+  "institutions": [
+   "IIIT Bangalore"
+  ],
+  "venue": "IEEE/ACM TASLP",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/taslpro.2026.3684414",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 129,
+  "title": "Generalized Sidelobe Canceller for Time-Domain Region-of-Interest Beamforming",
+  "authors": "S. Joel; Ariel J. Frank; Israel Cohen; Nithin V. George",
+  "affiliations": "Indian Institute of Technology Gandhinagar",
+  "institutions": [
+   "IIT Gandhinagar"
+  ],
+  "venue": "IEEE/ACM TASLP",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/taslpro.2026.3657239",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 130,
+  "title": "Leveraging Breathing Phase Aware Acoustic Features From Respiratory Sounds for Hierarchical Categorization of Pulmonary Disease",
+  "authors": "Arka Roy; Udit Satija",
+  "affiliations": "Indian Institute of Technology Patna",
+  "institutions": [
+   "IIT Patna"
+  ],
+  "venue": "IEEE/ACM TASLP",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/taslpro.2026.3705692",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 131,
+  "title": "Recognizing Ornaments in Vocal Indian Art Music With Active Annotation",
+  "authors": "Sumit Kumar; Parampreet Singh; Vipul Arora",
+  "affiliations": "Indian Institute of Technology Kanpur",
+  "institutions": [
+   "IIT Kanpur"
+  ],
+  "venue": "IEEE/ACM TASLP",
+  "venue_type": "Journal",
+  "date": "2025-12",
+  "link": "https://doi.org/10.1109/taslpro.2025.3639738",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 132,
+  "title": "Textless and Non-Parallel Speech-to-Speech Emotion Style Transfer",
+  "authors": "Soumya Dutta; Avni Jain; Sriram Ganapathy",
+  "affiliations": "Indian Institute of Science Bangalore; BITS Pilani Goa",
+  "institutions": [
+   "IISc Bangalore"
+  ],
+  "venue": "IEEE/ACM TASLP",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/taslpro.2026.3684421",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speaker, language & emotion recognition"
+ },
+ {
+  "id": 133,
+  "title": "HarmonicLIME: Frequency-Aware Local Explanations for Deep Music Genre Classification",
+  "authors": "Sridharan Sankaran",
+  "affiliations": "Fynro Advisory Services, Chennai",
+  "institutions": [],
+  "venue": "IEEE SPL",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/lsp.2026.3694788",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Music & general audio"
+ },
+ {
+  "id": 134,
+  "title": "Unified Time–Frequency–Phase Analysis of Speech Using Quaternion Linear Canonical Transform",
+  "authors": "Mohan Bansal; Kartheek Budime; Varun Gupta",
+  "affiliations": "O. P. Jindal Global University; IIIT Sonepat; NIT Sikkim",
+  "institutions": [
+   "NIT Sikkim"
+  ],
+  "venue": "IEEE SPL",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/lsp.2026.3669394",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Representations & signal analysis"
+ },
+ {
+  "id": 135,
+  "title": "WINning Against Audio Deepfakes",
+  "authors": "Arth J. Shah; Aniket Pandey; Hemant A. Patil",
+  "affiliations": "Dhirubhai Ambani University (DA-IICT)",
+  "institutions": [
+   "Dhirubhai Ambani University (DA-IICT)"
+  ],
+  "venue": "IEEE SPL",
+  "venue_type": "Journal",
+  "date": "2026",
+  "link": "https://doi.org/10.1109/lsp.2026.3695000",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 136,
+  "title": "A study on the layer-wise transferability of self-supervised learning features for children's speech processing tasks",
+  "authors": "Abhijit Sinha; Hemant Kumar Kathania; Mikko Kurimo",
+  "affiliations": "National Institute of Technology Sikkim",
+  "institutions": [
+   "NIT Sikkim"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-03",
+  "link": "https://doi.org/10.1016/j.specom.2026.103392",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Representations & signal analysis"
+ },
+ {
+  "id": 137,
+  "title": "AdaSpeech: Multiresolution modality adaptation for ASR in Hindi",
+  "authors": "Puneet Singh Bhooi; Vinayak Abrol",
+  "affiliations": "IIIT Delhi",
+  "institutions": [
+   "IIIT Delhi"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-08",
+  "link": "https://doi.org/10.1016/j.specom.2026.103465",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 138,
+  "title": "Categorization of patients affected with neurogenerative dysarthria among Hindi-speaking population and analyzing factors causing reduced speech intelligibility at the human-machine interface",
+  "authors": "Raj Kumar; Manoj Tripathy; Niraj S. Kumar; R. S. Anand",
+  "affiliations": "Indian Institute of Technology Roorkee; AIIMS",
+  "institutions": [
+   "IIT Roorkee"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2025-11",
+  "link": "https://doi.org/10.1016/j.specom.2025.103328",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 139,
+  "title": "Classification of phonation types in singing and speaking voice using self-supervised learning models",
+  "authors": "Prathamesh Parasharam Patil; Mittapalle Kiran Reddy; Alku Paavo",
+  "affiliations": "IIIT Allahabad",
+  "institutions": [],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-01",
+  "link": "https://doi.org/10.1016/j.specom.2026.103355",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 140,
+  "title": "Creating a dataset for speech development in children with special needs",
+  "authors": "G. Saranya; R. Nagarajan",
+  "affiliations": "Ganapathy Chettiar College of Engg & Tech, Paramakudi; Syed Ammal Engineering College, Ramanathapuram",
+  "institutions": [],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-06",
+  "link": "https://doi.org/10.1016/j.specom.2026.103429",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 141,
+  "title": "Detection of impersonated speech for forensic automatic speaker recognition by score fusion from multilevel features",
+  "authors": "V. R. Sreehari; Leena Mary",
+  "affiliations": "College of Engineering Trivandrum; IIITM Kerala",
+  "institutions": [],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1016/j.specom.2026.103413",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 142,
+  "title": "Direct speech-to-speech neural machine translation: A survey",
+  "authors": "Mahendra Gupta; Maitreyee Dutta; Chandresh Kumar Maurya",
+  "affiliations": "NITTTR Chandigarh; IIM Indore; Indian Institute of Technology Indore",
+  "institutions": [
+   "IIT Indore"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2025-10",
+  "link": "https://doi.org/10.1016/j.specom.2025.103317",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 143,
+  "title": "Do all features matter? Layer-wise feature probing of self-supervised speech models for dysarthria severity classification",
+  "authors": "Paban Sapkota; Harsh R. Srivastava; Hemant Kumar Kathania; Shrikanth Shri Narayanan; Sudarsana Reddy Kadiri",
+  "affiliations": "National Institute of Technology Sikkim",
+  "institutions": [
+   "NIT Sikkim"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2025-10",
+  "link": "https://doi.org/10.1016/j.specom.2025.103326",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 144,
+  "title": "Exploring LoRA variants to adapt whisper models for robust recognition of children's speech",
+  "authors": "Ankita; K. Manideep Bharadwaj; Syed Anowerul Azim; Nagaraj Adiga; S. Shahnawazuddin",
+  "affiliations": "National Institute of Technology Patna; SSN College of Engineering",
+  "institutions": [
+   "NIT Patna",
+   "SSN College of Engineering"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-04",
+  "link": "https://doi.org/10.1016/j.specom.2026.103408",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 145,
+  "title": "Improving ASR fairness for cleft lip and palate speech: A study on severity-aware data mixing",
+  "authors": "Susmita Bhattacharjee; Jagabandhu Mishra; Hanumant Singh Shekhawat; Ravi Jasuja; S. R. Mahadeva Prasanna",
+  "affiliations": "Indian Institute of Technology Guwahati; Indian Institute of Technology Dharwad",
+  "institutions": [
+   "IIT Guwahati",
+   "IIT Dharwad"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-09",
+  "link": "https://doi.org/10.1016/j.specom.2026.103477",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 146,
+  "title": "Leveraging Kolmogorov-Arnold networks for voice liveness detection in anti-spoofing systems",
+  "authors": "Arth J. Shah; Madhu R. Kamble",
+  "affiliations": "Dhirubhai Ambani University (DA-IICT); Samsung R&D India",
+  "institutions": [
+   "Dhirubhai Ambani University (DA-IICT)",
+   "Samsung R&D India"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-02",
+  "link": "https://doi.org/10.1016/j.specom.2026.103364",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 147,
+  "title": "Modeling instantaneous spectro-temporal energy transitions using time delay neural networks for dysarthria severity level classification",
+  "authors": "Fathima Zaheera; Gayadhar Pradhan",
+  "affiliations": "National Institute of Technology Patna",
+  "institutions": [
+   "NIT Patna"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-09",
+  "link": "https://doi.org/10.1016/j.specom.2026.103486",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 148,
+  "title": "Multilingual dysarthria detection and severity classification using layer-wise embeddings from self-supervised speech models",
+  "authors": "Sanjay B; P. Vijayalakshmi; Actlin Jeeva M.P.; Priyadharshini M.K.; T. Nagarajan",
+  "affiliations": "Sri Ramachandra Institute; SSN College of Engineering; Shiv Nadar University Chennai",
+  "institutions": [
+   "SSN College of Engineering"
+  ],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-08",
+  "link": "https://doi.org/10.1016/j.specom.2026.103464",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 149,
+  "title": "Multitask Indian speech analysis using acoustic and Stockwell time–frequency biomarkers for speaker-independent Parkinson's disease detection",
+  "authors": "V Shibina; T. M. Thasleema",
+  "affiliations": "Central University of Kerala",
+  "institutions": [],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-07",
+  "link": "https://doi.org/10.1016/j.specom.2026.103444",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 150,
+  "title": "Object detection for cross-linguistic vowel analysis: A novel language-agnostic method for forensic speech processing",
+  "authors": "Soham Gangopadhyay; Inderpreet Singh; Prateek Pandya; Ashish Mani; Sumit Goswami",
+  "affiliations": "Amity University; Ministry of Defence",
+  "institutions": [],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-02",
+  "link": "https://doi.org/10.1016/j.specom.2026.103368",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 151,
+  "title": "Use of timbre features from speech for speaker recognition in emotional environment",
+  "authors": "Shalini Tomar; Shashidhar G. Koolagudi",
+  "affiliations": "NIT Karnataka; SVNIT Surat",
+  "institutions": [],
+  "venue": "Speech Communication",
+  "venue_type": "Journal",
+  "date": "2026-07",
+  "link": "https://doi.org/10.1016/j.specom.2026.103457",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 152,
+  "title": "A Mixture-of-Experts model for multimodal emotion recognition in conversations",
+  "authors": "Soumya Dutta; Smruthi Balaji; Sriram Ganapathy",
+  "affiliations": "Indian Institute of Science Bangalore",
+  "institutions": [
+   "IISc Bangalore"
+  ],
+  "venue": "Computer Speech & Language",
+  "venue_type": "Journal",
+  "date": "2026-02",
+  "link": "https://doi.org/10.1016/j.csl.2026.101965",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 153,
+  "title": "Adaptive Non-Local means with Kalman filtering for an innovative speech enhancement framework",
+  "authors": "R. Senthamizh Selvi; Resmi R. Nair; G. Suresh",
+  "affiliations": "Saveetha University; Dhanalakshmi Srinivasan Group of Institutions",
+  "institutions": [],
+  "venue": "Computer Speech & Language",
+  "venue_type": "Journal",
+  "date": "2026-06",
+  "link": "https://doi.org/10.1016/j.csl.2026.102015",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 154,
+  "title": "KAMI-NET: A novel robust Kolmogorov-attentive network for multi-reference echo cancellation",
+  "authors": "Soni Ishwarya V.; Mohanaprasad Kothandaraman",
+  "affiliations": "Vellore Institute of Technology",
+  "institutions": [
+   "VIT Vellore"
+  ],
+  "venue": "Computer Speech & Language",
+  "venue_type": "Journal",
+  "date": "2026-09",
+  "link": "https://doi.org/10.1016/j.csl.2026.102046",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Enhancement, separation & spatial audio"
+ },
+ {
+  "id": 155,
+  "title": "Leveraging synthetic speech: TTS-driven data augmentation for effective dysarthric speech recognition",
+  "authors": "P. Vijayalakshmi; G. Anushiya Rachel; B Ramani; M.P. Actlin Jeeva; K. Anantha Krishnan; T. Lavanya; T. Nagarajan",
+  "affiliations": "SSN College of Engineering; Shiv Nadar University Chennai",
+  "institutions": [
+   "SSN College of Engineering"
+  ],
+  "venue": "Computer Speech & Language",
+  "venue_type": "Journal",
+  "date": "2026-02",
+  "link": "https://doi.org/10.1016/j.csl.2026.101961",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 156,
+  "title": "Modeling the temporal envelope of sub-band signals for improving the performance of children's speech recognition system in zero-resource scenario",
+  "authors": "Kaustav Das; Biswaranjan Pattanayak; Gayadhar Pradhan",
+  "affiliations": "National Institute of Technology Patna",
+  "institutions": [
+   "NIT Patna"
+  ],
+  "venue": "Computer Speech & Language",
+  "venue_type": "Journal",
+  "date": "2026-02",
+  "link": "https://doi.org/10.1016/j.csl.2026.101954",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 157,
+  "title": "Multilingual voice signal analysis for Parkinson's disease detection using instance-based domain adaptation through kernel mean matching",
+  "authors": "Pandit Vivek Kumar Pandey; Sitanshu Sekhar Sahu",
+  "affiliations": "BIT Mesra",
+  "institutions": [],
+  "venue": "Computer Speech & Language",
+  "venue_type": "Journal",
+  "date": "2026-05",
+  "link": "https://doi.org/10.1016/j.csl.2026.102010",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 158,
+  "title": "Comparing acoustic cues to phrase boundary in Hindi and Indian English",
+  "authors": "Mildred Pereira; Preeti Rao; Hansjörg Mixdorff",
+  "affiliations": "IIT Bombay",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "Speech Prosody 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://www.isca-archive.org/speechprosody_2026/pereira26_speechprosody.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 159,
+  "title": "Perceptual Correlates of Lexical Tone in Brajbhasha",
+  "authors": "Neetesh Kumar Ojha; Shakuntala Mahanta",
+  "affiliations": "IIT Guwahati",
+  "institutions": [
+   "IIT Guwahati"
+  ],
+  "venue": "Speech Prosody 2026",
+  "venue_type": "Conference",
+  "date": "2026-05",
+  "link": "https://www.isca-archive.org/speechprosody_2026/ojha26_speechprosody.html",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 160,
+  "title": "Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs",
+  "authors": "Deepak Kumar; Baban Gain; Asif Ekbal",
+  "affiliations": "Indian Institute of Technology Patna",
+  "institutions": [
+   "IIT Patna"
+  ],
+  "venue": "ACL 2026",
+  "venue_type": "Conference",
+  "date": "2026-07",
+  "link": "https://doi.org/10.18653/v1/2026.acl-long.2137",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 161,
+  "title": "Prosody as Supervision: Bridging the Non-Verbal–Verbal for Multilingual Speech Emotion Recognition",
+  "authors": "Girish; Mohd Mujtaba Akhtar; Muskaan Singh",
+  "affiliations": "V.B.S. Purvanchal University",
+  "institutions": [
+   "VBSPU / UPES / Manipal (Girish, Akhtar et al.)"
+  ],
+  "venue": "ACL 2026",
+  "venue_type": "Conference",
+  "date": "2026-07",
+  "link": "https://doi.org/10.18653/v1/2026.acl-long.1940",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 162,
+  "title": "HCFD: A Benchmark for Audio Deepfake Detection in Healthcare",
+  "authors": "Mohd Mujtaba Akhtar; Girish; Muskaan Singh",
+  "affiliations": "V.B.S. Purvanchal University",
+  "institutions": [
+   "VBSPU / UPES / Manipal (Girish, Akhtar et al.)"
+  ],
+  "venue": "ACL 2026 (Findings)",
+  "venue_type": "Conference",
+  "date": "2026-07",
+  "link": "https://doi.org/10.18653/v1/2026.findings-acl.1739",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 163,
+  "title": "Indic-CodecFake meets SATYAM: Towards Detecting Neural Audio Codec Synthesized Speech Deepfakes in Indic Languages",
+  "authors": "Girish; Mohd Mujtaba Akhtar; Orchid Chetia Phukan; Arun Balaji Buduru",
+  "affiliations": "IIIT Delhi",
+  "institutions": [
+   "IIIT Delhi"
+  ],
+  "venue": "ACL 2026 (Findings)",
+  "venue_type": "Conference",
+  "date": "2026-07",
+  "link": "https://doi.org/10.18653/v1/2026.findings-acl.2159",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 164,
+  "title": "Rolling Out Data Quality Overnight, without losing the plot: A Multi-Agent System for Speech Data Quality Management",
+  "authors": "Rishabh Kumar; Abhinav Painuli; Chriss Philip Saji; Devesh Soni; Amrith Krishna; Ganesh Ramakrishnan",
+  "affiliations": "Indian Institute of Technology Bombay",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "ACL 2026 (Findings)",
+  "venue_type": "Conference",
+  "date": "2026-07",
+  "link": "https://doi.org/10.18653/v1/2026.findings-acl.2062",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 165,
+  "title": "AITamilDialect@DravidianLangTech 2026: Zero-Shot Whisper and Wav2Vec2 Embedding-Based Tamil Speech Recognition and Dialect Classification",
+  "authors": "Varalakshmi K; Bharathi B",
+  "affiliations": "St. Joseph's Institute of Technology; SSN College of Engineering",
+  "institutions": [
+   "SSN College of Engineering"
+  ],
+  "venue": "DravidianLangTech 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.dravidianlangtech-1.17",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 166,
+  "title": "Azrael@DravidianLangTech 2026: Dialect-Sensitive Automatic Speech Recognition and Classification for Tamil",
+  "authors": "Janish Andrin J; Mohammed Sahil; Saranya S",
+  "affiliations": "St. Joseph's Institute of Technology",
+  "institutions": [],
+  "venue": "DravidianLangTech 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.dravidianlangtech-1.18",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 167,
+  "title": "Cascaded Modular or End-to-End?: An Investigation on Speech-to-Speech Translation Task for Dravidian Languages",
+  "authors": "Bhavana Nali; Abhik Jana",
+  "affiliations": "Indian Institute of Technology Bhubaneswar",
+  "institutions": [
+   "IIT Bhubaneswar"
+  ],
+  "venue": "DravidianLangTech 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.dravidianlangtech-1.3",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 168,
+  "title": "DLRG@DravidianLangTech 2026: Dual-Purpose Whisper Adaptation for Tamil Dialect Identification and Dialectal Speech Recognition",
+  "authors": "Gulisetty Abhinav; Tanisha Nanda; Ramesh Kannan R; R. Rajalakshmi",
+  "affiliations": "Vellore Institute of Technology",
+  "institutions": [
+   "VIT Vellore"
+  ],
+  "venue": "DravidianLangTech 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.dravidianlangtech-1.33",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 169,
+  "title": "IIITK_SpeechScape@DravidianLangTech 2026: Dialect based speech recognition and classification using Speech Foundation Models",
+  "authors": "G Srishtik Sekar; Harissh Ragav Dhamodaran; Kishore Shankar S; Balasubramanian Palani; R. Tharaniya Sairaj",
+  "affiliations": "IIIT Kottayam; IIITM Kerala",
+  "institutions": [],
+  "venue": "DravidianLangTech 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.dravidianlangtech-1.40",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 170,
+  "title": "Shared Task on Depression Detection from Malayalam and Tamil Speech Data",
+  "authors": "Jyothish Lal G; Premjith B; Bharathi Raja Chakravarthi; Saranya Rajiakodi; D. Thenmozhi; Prasanna Kumar Kumaresan",
+  "affiliations": "Amrita Vishwa Vidyapeetham; Central University of Tamil Nadu",
+  "institutions": [
+   "Amrita Vishwa Vidyapeetham"
+  ],
+  "venue": "DravidianLangTech 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.dravidianlangtech-1.13",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 171,
+  "title": "Wise@DravidianLangTech 2026: Dialect-Aware Tamil Speech Classification and Recognition via Cross-Pipeline Embedding Transfer",
+  "authors": "Ganesh Sundhar S; Hari Krishnan N; Gnanasabesan G; Suriya Kp; Jyothish Lal G",
+  "affiliations": "Amrita Vishwa Vidyapeetham",
+  "institutions": [
+   "Amrita Vishwa Vidyapeetham"
+  ],
+  "venue": "DravidianLangTech 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.dravidianlangtech-1.71",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 172,
+  "title": "AfriVox: Probing Multilingual and Accent Robustness of Speech LLMs",
+  "authors": "Busayo Awobade; Mardhiyah Sanni; Tassallah Abdullahi; Chibuzor Okocha; Kelechi Ezema; Devendra Deepak Kayande; Lukman Ismaila; Tobi Olatunji; Gloria Ashiya Katuka",
+  "affiliations": "IIIT Allahabad",
+  "institutions": [],
+  "venue": "EACL 2026",
+  "venue_type": "Conference",
+  "date": "2026-03",
+  "link": "https://doi.org/10.18653/v1/2026.eacl-long.122",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 173,
+  "title": "Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech",
+  "authors": "Mohd Mujtaba Akhtar; Girish; Farhan Sheth; Muskaan Singh",
+  "affiliations": "V.B.S. Purvanchal University; Manipal",
+  "institutions": [
+   "VBSPU / UPES / Manipal (Girish, Akhtar et al.)"
+  ],
+  "venue": "EACL 2026",
+  "venue_type": "Conference",
+  "date": "2026-03",
+  "link": "https://doi.org/10.18653/v1/2026.eacl-long.250",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 174,
+  "title": "Post-ASR Correction in Hindi: Comparing Language Models and Large Language Models in Low-Resource Scenarios",
+  "authors": "Rishabh Kumar; Amrith Krishna; Ganesh Ramakrishnan; Preethi Jyothi",
+  "affiliations": "Indian Institute of Technology Bombay",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "EACL 2026",
+  "venue_type": "Conference",
+  "date": "2026-03",
+  "link": "https://doi.org/10.18653/v1/2026.eacl-short.45",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 175,
+  "title": "Thesis Proposal: Development of End-to-End Speech Translation Models for Indian Languages",
+  "authors": "Jamaluddin",
+  "affiliations": "Aligarh Muslim University",
+  "institutions": [
+   "Aligarh Muslim University"
+  ],
+  "venue": "EACL 2026 (SRW)",
+  "venue_type": "Conference",
+  "date": "2026-03",
+  "link": "https://doi.org/10.18653/v1/2026.eacl-srw.41",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 176,
+  "title": "Aligning Text/Speech Representations from Multimodal Models with MEG Brain Activity During Listening",
+  "authors": "P. K. Srijith; Khushbu Pahwa; Radhika Mamidi; Bapi Raju Surampudi; Manish Kumar Gupta; Subba Reddy Oota",
+  "affiliations": "IIIT Hyderabad; IIT Hyderabad; Microsoft India",
+  "institutions": [
+   "IIIT Hyderabad",
+   "IIT Hyderabad"
+  ],
+  "venue": "EMNLP 2025",
+  "venue_type": "Conference",
+  "date": "2025-11",
+  "link": "https://doi.org/10.18653/v1/2025.emnlp-main.1748",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 177,
+  "title": "LASER: An LLM-based ASR Scoring and Evaluation Rubric",
+  "authors": "Amruta Parulekar; Preethi Jyothi",
+  "affiliations": "Indian Institute of Technology Bombay",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "EMNLP 2025",
+  "venue_type": "Conference",
+  "date": "2025-11",
+  "link": "https://doi.org/10.18653/v1/2025.emnlp-main.1257",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 178,
+  "title": "Predicting Prosodic Boundaries for Children's Texts",
+  "authors": "Mansi Dhamne; Sneha Raman; Preeti Rao",
+  "affiliations": "Indian Institute of Technology Bombay",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "EMNLP 2025",
+  "venue_type": "Conference",
+  "date": "2025-11",
+  "link": "https://doi.org/10.18653/v1/2025.emnlp-main.1623",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ },
+ {
+  "id": 179,
+  "title": "Visual-Aware Speech Recognition for Noisy Scenarios",
+  "authors": "Balaji Darur; Karan Singla",
+  "affiliations": "IIIT Hyderabad (OpenAlex says IIT Hyderabad)",
+  "institutions": [
+   "IIIT Hyderabad",
+   "IIT Hyderabad"
+  ],
+  "venue": "EMNLP 2025",
+  "venue_type": "Conference",
+  "date": "2025-11",
+  "link": "https://doi.org/10.18653/v1/2025.emnlp-main.845",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Brain, lips & silent speech"
+ },
+ {
+  "id": 180,
+  "title": "What You See is What You Ask: Evaluating Audio Descriptions",
+  "authors": "Divy Kala; Eshika Khandelwal; Makarand Tapaswi",
+  "affiliations": "IIIT Hyderabad (OpenAlex says IIT Hyderabad)",
+  "institutions": [
+   "IIIT Hyderabad",
+   "IIT Hyderabad"
+  ],
+  "venue": "EMNLP 2025",
+  "venue_type": "Conference",
+  "date": "2025-11",
+  "link": "https://doi.org/10.18653/v1/2025.emnlp-main.1199",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Representations & signal analysis"
+ },
+ {
+  "id": 181,
+  "title": "EZ-VC: Easy Zero-shot Any-to-Any Voice Conversion",
+  "authors": "Advait Joglekar; Divyanshu Kumar Singh; Rooshil Rohit Bhatia; Srinivasan Umesh",
+  "affiliations": "Indian Institute of Technology Madras",
+  "institutions": [
+   "IIT Madras"
+  ],
+  "venue": "EMNLP 2025 (Findings)",
+  "venue_type": "Conference",
+  "date": "2025-11",
+  "link": "https://doi.org/10.18653/v1/2025.findings-emnlp.1077",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech synthesis & voice conversion"
+ },
+ {
+  "id": 182,
+  "title": "RECAST: Retrieval-Augmented Contextual ASR via Decoder-State Keyword Spotting",
+  "authors": "Ashish Mittal; Sunita Sarawagi; Preethi Jyothi",
+  "affiliations": "Indian Institute of Technology Bombay",
+  "institutions": [
+   "IIT Bombay"
+  ],
+  "venue": "EMNLP 2025 (Findings)",
+  "venue_type": "Conference",
+  "date": "2025-11",
+  "link": "https://doi.org/10.18653/v1/2025.findings-emnlp.203",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech recognition & ASR evaluation"
+ },
+ {
+  "id": 183,
+  "title": "Curved Worlds, Clear Boundaries: Generalizing Speech Deepfake Detection using Hyperbolic and Spherical Geometry Spaces",
+  "authors": "Farhan Sheth; Girish; Mohd Mujtaba Akhtar; Muskaan Singh",
+  "affiliations": "Manipal (per OpenAlex)",
+  "institutions": [],
+  "venue": "IJCNLP-AACL 2025",
+  "venue_type": "Conference",
+  "date": "2025-12",
+  "link": "https://doi.org/10.18653/v1/2025.ijcnlp-long.104",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Deepfakes, spoofing & audio security"
+ },
+ {
+  "id": 184,
+  "title": "Indic-S2ST: a Multilingual and Multimodal Many-to-Many Indic Speech-to-Speech Translation Dataset",
+  "authors": "Nivedita Sethiya; Puneet Walia; Chandresh Kumar Maurya",
+  "affiliations": "Indian Institute of Technology Indore",
+  "institutions": [
+   "IIT Indore"
+  ],
+  "venue": "IJCNLP-AACL 2025",
+  "venue_type": "Conference",
+  "date": "2025-12",
+  "link": "https://doi.org/10.18653/v1/2025.ijcnlp-long.196",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 185,
+  "title": "StuD: A Multimodal Approach for Stuttering Detection with RAG and Fusion Strategies",
+  "authors": "Pragya Khanna; Priyanka Kommagouni; Vamshiraghusimha Narasinga; Anil Vuppala",
+  "affiliations": "IIIT Hyderabad",
+  "institutions": [
+   "IIIT Hyderabad"
+  ],
+  "venue": "IJCNLP-AACL 2025",
+  "venue_type": "Conference",
+  "date": "2025-12",
+  "link": "https://doi.org/10.18653/v1/2025.ijcnlp-long.39",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Clinical & health speech"
+ },
+ {
+  "id": 186,
+  "title": "AURA-ST: Acoustic-Unconstrained Residual Architecture for Speech Translation",
+  "authors": "Barathi Ganesh HB; Michal Ptaszynski; Jairam R; Reshma Unnikrishnan",
+  "affiliations": "RBG AI Research, Coimbatore",
+  "institutions": [],
+  "venue": "IWSLT 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.iwslt-1.28",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 187,
+  "title": "Balancing Linguistic Intelligibility and Speaker Identity in Zero-Shot Cross-Lingual Voice Cloning",
+  "authors": "Mo Ahtasam; Jamal uddin; Mohammad Nadeem",
+  "affiliations": "Indian Institute of Technology Patna; Aligarh Muslim University",
+  "institutions": [
+   "IIT Patna",
+   "Aligarh Muslim University"
+  ],
+  "venue": "IWSLT 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.iwslt-1.12",
+  "indian_language": false,
+  "first_author_in_india": true,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 188,
+  "title": "Speech Translation and Metrics in 2026: Findings of the IWSLT Campaign",
+  "authors": "David Ifeoluwa Adelani; ... (55 authors) incl. Chandresh Kumar Maurya; Mahendra Gupta",
+  "affiliations": "Indian Institute of Technology Indore",
+  "institutions": [
+   "IIT Indore"
+  ],
+  "venue": "IWSLT 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.iwslt-1.39",
+  "indian_language": false,
+  "first_author_in_india": false,
+  "theme": "Speech translation & spoken understanding"
+ },
+ {
+  "id": 189,
+  "title": "UrHiOdSynth: A Multilingual Synthetic Corpus for Speech-to-Speech Translation in Low-Resource Indic Languages",
+  "authors": "Jamaluddin; Subhankar Panda; Aditya Narendra; Kamanksha Prasad Dubey; Mohammad Nadeem",
+  "affiliations": "IIM Indore; Indian Institute of Technology Indore; Aligarh Muslim University",
+  "institutions": [
+   "IIT Indore",
+   "Aligarh Muslim University"
+  ],
+  "venue": "LoResLM 2026 (ACL workshop)",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.loreslm-1.50",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Corpora, benchmarks & challenges"
+ },
+ {
+  "id": 190,
+  "title": "Determinants of Hesitations and Repetitions in Hindi Spontaneous Speech",
+  "authors": "Eashani Sharma; Ishita Arun; Samar Husain",
+  "affiliations": "Indian Institute of Technology Delhi",
+  "institutions": [
+   "IIT Delhi"
+  ],
+  "venue": "SCiL 2026",
+  "venue_type": "Workshop",
+  "date": "2026",
+  "link": "https://doi.org/10.18653/v1/2026.scil-main.7",
+  "indian_language": true,
+  "first_author_in_india": true,
+  "theme": "Prosody, phonetics & pronunciation"
+ }
+]

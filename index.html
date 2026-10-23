@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SIG-ILSP · Indian Language Speech Processing</title>
+<meta name="description" content="Research outcomes, datasets, people and lectures from the Indian speech research community.">
+<script>try{var t=localStorage.getItem("sig-theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css?v=21">
+</head>
+<body data-page="home">
+<main>
+
+<section class="hero" style="padding-top:4.5rem">
+  <canvas class="hero-spec" id="spec" aria-hidden="true"></canvas>
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow">ISCA Special Interest Group</p>
+      <h1>Speech and language technology for <span class="grad">every voice</span> in India</h1>
+      <p class="lede">SIG-ILSP brings together researchers, students and industry working on speech and spoken language in India: recent papers and theses, datasets, who works where, and a lecture series anyone can join online.</p>
+      <div class="hero-actions">
+        <a class="btn accent" href="outcomes.html">See recent work</a>
+        <a class="btn ghost" href="lectures.html">Upcoming lectures</a>
+      </div>
+    </div>
+    <div class="wave-card">
+      <p class="card-kicker">Voices of India <span>real recordings</span></p>
+      <div class="voice-word" id="voice-word" aria-live="polite"></div>
+      <canvas class="wave" id="wave" aria-hidden="true"></canvas>
+      <div class="player">
+        <button class="btn accent sm" id="play-btn" type="button" aria-pressed="false"></button>
+        <button class="icon-btn" id="next-btn" type="button" aria-label="Next language"></button>
+      </div>
+      <p class="cap" id="spec-cap">Speech from <a href="https://vaani.iisc.ac.in/">Vaani</a> (ARTPARK &amp; IISc), CC-BY 4.0. The background is its spectrogram, 0–5 kHz.</p>
+    </div>
+  </div>
+  <div class="wrap"><div class="ticker" id="ticker" aria-hidden="true"></div></div>
+</section>
+
+<div class="wrap">
+
+<section>
+  <div class="paths">
+    <a class="path reveal" href="outcomes.html">
+      <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></div>
+      <div class="who">Researchers</div><h3>See what is being done</h3>
+      <p>Recent papers and PhD theses from India, searchable by theme, venue and language.</p><span class="go">Browse outcomes</span></a>
+    <a class="path reveal" href="lectures.html">
+      <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c3 2 9 2 12 0v-5"/></svg></div>
+      <div class="who">Students</div><h3>Get started</h3>
+      <p>Recorded lectures, recent theses, and where to find datasets for Indian languages.</p><span class="go">Watch and learn</span></a>
+    <a class="path reveal" href="people.html">
+      <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.8-3.5 3.4-5.5 6.5-5.5s5.7 2 6.5 5.5"/><path d="M16 4.5a3.5 3.5 0 0 1 0 7M18 14.8c2 .7 3.2 2.5 3.6 5.2"/></svg></div>
+      <div class="who">Industry &amp; funders</div><h3>Find expertise</h3>
+      <p>A directory of groups in India, with their topics and languages.</p><span class="go">See groups</span></a>
+  </div>
+</section>
+
+<section class="reveal">
+  <div class="section-head"><div><p class="eyebrow">Lecture series</p><h2>Next lecture</h2></div><a href="lectures.html">All lectures</a></div>
+  <div id="next-lecture"></div>
+</section>
+
+<section class="reveal">
+  <div class="section-head"><div><p class="eyebrow">At a glance</p><h2>Indian speech research in numbers</h2></div><a href="outcomes.html">Browse all papers</a></div>
+  <div class="stats" id="stats"></div>
+  <p class="small muted" style="margin-top:.8rem">From the SIG's compilation of papers with at least one India-based author.</p>
+</section>
+
+<section class="reveal">
+  <div class="section-head"><div><p class="eyebrow">Resources</p><h2>Datasets and tools</h2></div><a href="outcomes.html?view=resources">All resources</a></div>
+  <div class="grid" id="resource-teasers"></div>
+</section>
+
+<section class="reveal">
+  <div class="section-head"><div><p class="eyebrow">Community</p><h2>Events</h2></div><a href="news.html">All events</a></div>
+  <ul class="event-list" id="events"></ul>
+</section>
+
+<div class="cta reveal">
+  <div><h2>Working on Indian speech?</h2><p>Add your paper, thesis or dataset, list yourself or your group, or suggest a speaker for the lecture series.</p></div>
+  <a class="btn" href="about.html#contribute">How to contribute</a>
+</div>
+
+</div>
+</main>
+<script src="assets/site.js?v=18"></script>
+</body>
+</html>

@@ -1,0 +1,370 @@
+[
+ {
+  "name": "IIT Guwahati",
+  "aliases": [
+   "IITG",
+   "IIT-Guwahati",
+   "Indian Institute of Technology Guwahati"
+  ],
+  "city": "Guwahati",
+  "lat": 26.1925,
+  "lng": 91.6946,
+  "checked": false
+ },
+ {
+  "name": "IIT Madras",
+  "aliases": [
+   "IITM",
+   "IIT-Madras",
+   "Indian Institute of Technology Madras"
+  ],
+  "city": "Chennai",
+  "lat": 12.9942,
+  "lng": 80.2367,
+  "checked": false
+ },
+ {
+  "name": "IIT Bombay",
+  "aliases": [
+   "IITB",
+   "IIT-Bombay",
+   "Indian Institute of Technology Bombay"
+  ],
+  "city": "Mumbai",
+  "lat": 19.1326,
+  "lng": 72.915,
+  "checked": false
+ },
+ {
+  "name": "IIT Delhi",
+  "aliases": [
+   "IITD",
+   "IIT-Delhi",
+   "Indian Institute of Technology Delhi"
+  ],
+  "city": "New Delhi",
+  "lat": 28.545,
+  "lng": 77.1892,
+  "checked": false
+ },
+ {
+  "name": "IIT Kanpur",
+  "aliases": [
+   "IITK",
+   "IIT-Kanpur",
+   "Indian Institute of Technology Kanpur"
+  ],
+  "city": "Kanpur",
+  "lat": 26.5132,
+  "lng": 80.2365,
+  "checked": false
+ },
+ {
+  "name": "IIT Kharagpur",
+  "aliases": [
+   "IIT KGP",
+   "IIT-Kharagpur",
+   "Indian Institute of Technology Kharagpur"
+  ],
+  "city": "Kharagpur",
+  "lat": 22.3147,
+  "lng": 87.31,
+  "checked": false
+ },
+ {
+  "name": "IIT Hyderabad",
+  "aliases": [
+   "IITH",
+   "IIT-Hyderabad",
+   "Indian Institute of Technology Hyderabad"
+  ],
+  "city": "Sangareddy",
+  "lat": 17.5923,
+  "lng": 78.1222,
+  "checked": false
+ },
+ {
+  "name": "IIT Indore",
+  "aliases": [
+   "IITI",
+   "Indian Institute of Technology Indore"
+  ],
+  "city": "Indore",
+  "lat": 22.5269,
+  "lng": 75.9262,
+  "checked": false
+ },
+ {
+  "name": "IIT Mandi",
+  "aliases": [
+   "Indian Institute of Technology Mandi"
+  ],
+  "city": "Mandi",
+  "lat": 31.7063,
+  "lng": 76.9386,
+  "checked": false
+ },
+ {
+  "name": "IIT Patna",
+  "aliases": [
+   "IITP",
+   "Indian Institute of Technology Patna"
+  ],
+  "city": "Patna",
+  "lat": 25.5424,
+  "lng": 84.8516,
+  "checked": false
+ },
+ {
+  "name": "IIT Roorkee",
+  "aliases": [
+   "IITR",
+   "Indian Institute of Technology Roorkee"
+  ],
+  "city": "Roorkee",
+  "lat": 29.8662,
+  "lng": 77.8957,
+  "checked": false
+ },
+ {
+  "name": "IIT Gandhinagar",
+  "aliases": [
+   "IITGN",
+   "Indian Institute of Technology Gandhinagar"
+  ],
+  "city": "Gandhinagar",
+  "lat": 23.2197,
+  "lng": 72.6946,
+  "checked": false,
+  "note": "town-level location; refine to the campus"
+ },
+ {
+  "name": "IIT Jodhpur",
+  "aliases": [
+   "IITJ",
+   "Indian Institute of Technology Jodhpur"
+  ],
+  "city": "Jodhpur",
+  "lat": 26.4729,
+  "lng": 73.1143,
+  "checked": false
+ },
+ {
+  "name": "IIT Jammu",
+  "aliases": [
+   "Indian Institute of Technology Jammu"
+  ],
+  "city": "Jammu",
+  "lat": 32.8022,
+  "lng": 74.8914,
+  "checked": false
+ },
+ {
+  "name": "IIT Dharwad",
+  "aliases": [
+   "Indian Institute of Technology Dharwad"
+  ],
+  "city": "Dharwad",
+  "lat": 15.4862,
+  "lng": 74.9386,
+  "checked": false
+ },
+ {
+  "name": "IIT Bhubaneswar",
+  "aliases": [
+   "Indian Institute of Technology Bhubaneswar"
+  ],
+  "city": "Bhubaneswar",
+  "lat": 20.1479,
+  "lng": 85.676,
+  "checked": false
+ },
+ {
+  "name": "IIT BHU",
+  "aliases": [
+   "IIT (BHU)",
+   "IIT BHU Varanasi",
+   "Indian Institute of Technology (BHU) Varanasi"
+  ],
+  "city": "Varanasi",
+  "lat": 25.2622,
+  "lng": 82.9926,
+  "checked": false
+ },
+ {
+  "name": "IISc Bangalore",
+  "aliases": [
+   "IISc",
+   "IISc Bengaluru",
+   "Indian Institute of Science"
+  ],
+  "city": "Bengaluru",
+  "lat": 13.0222,
+  "lng": 77.5672,
+  "checked": false
+ },
+ {
+  "name": "IIIT Hyderabad",
+  "aliases": [
+   "IIIT-H",
+   "IIITH",
+   "International Institute of Information Technology Hyderabad"
+  ],
+  "city": "Hyderabad",
+  "lat": 17.4452,
+  "lng": 78.3483,
+  "checked": false
+ },
+ {
+  "name": "IIIT Delhi",
+  "aliases": [
+   "IIIT-D",
+   "IIITD",
+   "Indraprastha Institute of Information Technology Delhi"
+  ],
+  "city": "New Delhi",
+  "lat": 28.5463,
+  "lng": 77.2733,
+  "checked": false
+ },
+ {
+  "name": "IIIT Bangalore",
+  "aliases": [
+   "IIIT-B",
+   "IIITB",
+   "International Institute of Information Technology Bangalore"
+  ],
+  "city": "Bengaluru",
+  "lat": 12.8448,
+  "lng": 77.6632,
+  "checked": false
+ },
+ {
+  "name": "NIT Patna",
+  "aliases": [
+   "NITP",
+   "National Institute of Technology Patna"
+  ],
+  "city": "Patna",
+  "lat": 25.6093,
+  "lng": 85.1235,
+  "checked": false,
+  "note": "town-level location; refine to the campus"
+ },
+ {
+  "name": "NIT Sikkim",
+  "aliases": [
+   "National Institute of Technology Sikkim"
+  ],
+  "city": "Ravangla",
+  "lat": 27.3051,
+  "lng": 88.3645,
+  "checked": false,
+  "note": "town-level location; refine to the campus"
+ },
+ {
+  "name": "Aligarh Muslim University",
+  "aliases": [
+   "AMU"
+  ],
+  "city": "Aligarh",
+  "lat": 27.8761,
+  "lng": 78.1358,
+  "checked": false,
+  "note": "town-level location; refine to the campus"
+ },
+ {
+  "name": "Dhirubhai Ambani University (DA-IICT)",
+  "aliases": [
+   "DA-IICT",
+   "DAIICT",
+   "Dhirubhai Ambani University"
+  ],
+  "city": "Gandhinagar",
+  "lat": 23.1884,
+  "lng": 72.628,
+  "checked": false
+ },
+ {
+  "name": "SSN College of Engineering",
+  "aliases": [
+   "SSN",
+   "SSNCE"
+  ],
+  "city": "Chennai",
+  "lat": 12.7522,
+  "lng": 80.1961,
+  "checked": false
+ },
+ {
+  "name": "Thapar Institute",
+  "aliases": [
+   "Thapar",
+   "TIET",
+   "Thapar University"
+  ],
+  "city": "Patiala",
+  "lat": 30.3545,
+  "lng": 76.3658,
+  "checked": false
+ },
+ {
+  "name": "VIT Vellore",
+  "aliases": [
+   "VIT",
+   "Vellore Institute of Technology"
+  ],
+  "city": "Vellore",
+  "lat": 12.9697,
+  "lng": 79.1607,
+  "checked": false
+ },
+ {
+  "name": "Samsung R&D India",
+  "aliases": [
+   "Samsung R&D Institute Bangalore",
+   "SRI-B",
+   "Samsung R&D Institute India"
+  ],
+  "city": "Bengaluru",
+  "lat": 12.9768,
+  "lng": 77.5901,
+  "checked": false
+ },
+ {
+  "name": "Sony Research India",
+  "aliases": [],
+  "city": "Bengaluru",
+  "lat": 12.9768,
+  "lng": 77.5901,
+  "checked": false
+ },
+ {
+  "name": "Sarvam AI",
+  "aliases": [],
+  "city": "Bengaluru",
+  "lat": 12.9768,
+  "lng": 77.5901,
+  "checked": false
+ },
+ {
+  "name": "Uniphore India",
+  "aliases": [
+   "Uniphore"
+  ],
+  "city": "Chennai",
+  "lat": 13.0801,
+  "lng": 80.2808,
+  "checked": false
+ },
+ {
+  "name": "Meeami Technologies",
+  "aliases": [
+   "Meeami"
+  ],
+  "city": "Hyderabad",
+  "lat": 17.3606,
+  "lng": 78.4741,
+  "checked": false
+ }
+]

@@ -1,0 +1,137 @@
+[
+ {
+  "name": "FRSM 2025 – Int'l Symposium on Frontiers of Research in Speech and Music",
+  "when": "13–14 Nov 2025",
+  "start": "2025-11-13",
+  "type": "Symposium",
+  "venue": "AIISH, Mysuru (with C.V. Raman Centre for Physics & Music, Jadavpur Univ.)",
+  "relevance": "AI for speech, hearing and music cognition",
+  "link": "https://sites.google.com/view/frsm2025/"
+ },
+ {
+  "name": "BHASHA – Benchmarks, Harmonization, Annotation & Standardization for Indian Languages (1st)",
+  "when": "Dec 2025 (at AACL)",
+  "start": "2025-12-01",
+  "type": "Workshop + shared task",
+  "venue": "IIT Bombay, Mumbai",
+  "relevance": "Indian-language resources and benchmarks",
+  "link": "https://bhasha-workshop.github.io/sharedtask.html"
+ },
+ {
+  "name": "Second Bangla Language Processing Workshop",
+  "when": "Dec 2025 (at AACL)",
+  "start": "2025-12-01",
+  "type": "Workshop",
+  "venue": "IIT Bombay, Mumbai",
+  "relevance": "Bangla NLP",
+  "link": "https://linguistlist.org/issues/36/2900/"
+ },
+ {
+  "name": "WSLP – 1st Workshop on Sign Language Processing",
+  "when": "Dec 2025 (at AACL)",
+  "start": "2025-12-01",
+  "type": "Workshop",
+  "venue": "IIT Bombay, Mumbai",
+  "relevance": "Sign language processing",
+  "link": "https://linguistlist.org/issues/36/2900/"
+ },
+ {
+  "name": "FIRE 2025 – Forum for Information Retrieval Evaluation (17th)",
+  "when": "17–20 Dec 2025",
+  "start": "2025-12-17",
+  "type": "Conference + shared tasks",
+  "venue": "IIT (BHU) Varanasi",
+  "relevance": "IR/NLP evaluation; Indian-language shared tasks",
+  "link": "https://fire.irsi.org.in/fire/2025/call_for_papers"
+ },
+ {
+  "name": "IJCNLP-AACL 2025",
+  "when": "20–24 Dec 2025",
+  "start": "2025-12-20",
+  "type": "Conference",
+  "venue": "IIT Bombay, Mumbai",
+  "relevance": "Main NLP venue in Asia; several speech papers from Indian labs",
+  "link": "https://2025.aaclnet.org/"
+ },
+ {
+  "name": "IEEE SPS Seasonal School: Future Perspectives in Audio & Acoustic Signal Processing",
+  "when": "27–31 Jan 2026",
+  "start": "2026-01-27",
+  "type": "School",
+  "venue": "Symbiosis Institute of Technology, Pune",
+  "relevance": "Spatial audio, speech enhancement, SER, voice biometrics, psychoacoustics",
+  "link": "https://events.vtools.ieee.org/m/510872"
+ },
+ {
+  "name": "Voice Tech for All – TTS challenge (SYSPIN / SPICOR data, 11 Indian languages)",
+  "when": "Concluded 28 Jan 2026",
+  "start": "2026-01-28",
+  "type": "Challenge",
+  "venue": "IISc SPIRE Lab, Bengaluru",
+  "relevance": "Text-to-speech for Indian languages",
+  "link": "https://spire.ee.iisc.ac.in/src/news.php"
+ },
+ {
+  "name": "India AI Impact Summit 2026",
+  "when": "16–21 Feb 2026",
+  "start": "2026-02-16",
+  "type": "Summit (policy/industry)",
+  "venue": "Bharat Mandapam, New Delhi",
+  "relevance": "Sarvam speech models and BharatGen Param2 (22 languages) announced; language-AI sessions",
+  "link": "https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026"
+ },
+ {
+  "name": "NCC 2026 – National Conference on Communications (32nd)",
+  "when": "26 Feb – 1 Mar 2026",
+  "start": "2026-02-26",
+  "type": "Conference",
+  "venue": "IIT Hyderabad",
+  "relevance": "Communications, signal processing (incl. speech/audio)",
+  "link": "https://www.iith.ac.in/events/2026/02/26/national_conference_on_communications_2026/"
+ },
+ {
+  "name": "ACM India Summer School: Natural Language Models for Language Technology Development",
+  "when": "3–13 Jun 2026",
+  "start": "2026-06-03",
+  "type": "School",
+  "venue": "CLST, IIT Guwahati",
+  "relevance": "ASR, Indian-context TTS, code-switched speech, MT; Northeast Indian languages",
+  "link": "https://www.iitg.ac.in/clst/acm-summer-2026/"
+ },
+ {
+  "name": "IEEE SPS Seasonal School on Speech and Audio Processing (Cycle 1)",
+  "when": "10–12 Jun 2026",
+  "start": "2026-06-10",
+  "type": "School",
+  "venue": "Matrusri Engineering College, Hyderabad",
+  "relevance": "Speech features, ASR, speaker ID, TTS, audio processing",
+  "link": "https://matrusri.edu.in/ieee-sps-seasonalschool/"
+ },
+ {
+  "name": "IASNLP 2026 – 14th IIIT Advanced Summer School on NLP (theme: Speech LLMs)",
+  "when": "12–27 Jun 2026",
+  "start": "2026-06-12",
+  "type": "School",
+  "venue": "IIIT Hyderabad",
+  "relevance": "Speech LLMs, ASR/TTS, spoken dialogue; 61 participants; speakers incl. B. Yegnanarayana, Haizhou Li, S. Umesh",
+  "link": "https://ltrc.iiit.ac.in/iasnlp2026/"
+ },
+ {
+  "name": "SPCOM 2026 – Int'l Conference on Signal Processing and Communications",
+  "when": "16–18 Jul 2026",
+  "start": "2026-07-16",
+  "type": "Conference",
+  "venue": "IISc Bengaluru",
+  "relevance": "Speech & spoken language sessions; invited session on Indic Language Technologies (Hema A. Murthy and others)",
+  "link": "https://ece.iisc.ac.in/~spcom/2026/"
+ },
+ {
+  "name": "ICON 2026 – 22nd Int'l Conference on NLP",
+  "when": "20–23 Dec 2026",
+  "start": "2026-12-20",
+  "type": "Conference",
+  "venue": "Gauhati University, Guwahati",
+  "relevance": "Upcoming, just after the window. No ICON appears to have been held in 2025.",
+  "link": "https://www.icon2026.org/"
+ }
+]
