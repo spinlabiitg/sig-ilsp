@@ -1,1 +1,22 @@
-[]
+[
+ {
+  "name": "Neeraj Kumar Sharma",
+  "role": "Faculty",
+  "institution": "IIT Guwahati",
+  "group": "SPIN Lab",
+  "topics": [
+   "Audio signal processing",
+   "Healthcare",
+   "Speech",
+   "Multimodal"
+  ],
+  "languages": [
+   "English",
+   "Assamese",
+   "Hindi and more"
+  ],
+  "profile": "https://scholar.google.com/citations?user=j7oyJ0MAAAAJ&hl=en",
+  "issue": 1,
+  "added": "2026-10-23"
+ }
+]
