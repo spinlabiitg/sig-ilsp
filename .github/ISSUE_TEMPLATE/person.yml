@@ -1,0 +1,83 @@
+name: Join the people directory
+description: List yourself in the SIG-ILSP directory of people working on speech in India.
+title: "Person: "
+labels: ["person"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Listing is opt-in and public. Please submit only your own details.
+        We do not publish email addresses or phone numbers: your profile link is how people reach you.
+        To change or remove your entry later, submit this form again and choose "Update" or "Remove".
+  - type: dropdown
+    id: action
+    attributes:
+      label: Action
+      options:
+        - Add me
+        - Update my entry
+        - Remove my entry
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Full name
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: Role
+      options:
+        - PhD student
+        - Master's student
+        - Undergraduate student
+        - Postdoc
+        - Faculty
+        - Researcher (industry)
+        - Researcher (government)
+        - Engineer
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: institution
+    attributes:
+      label: Institution
+      description: The institution where you work or study in India.
+      placeholder: "IIT Guwahati"
+    validations:
+      required: true
+  - type: input
+    id: group
+    attributes:
+      label: Research group or lab (optional)
+  - type: input
+    id: topics
+    attributes:
+      label: Research topics
+      description: Separate with commas.
+      placeholder: "ASR, speech synthesis, clinical speech"
+    validations:
+      required: true
+  - type: input
+    id: languages
+    attributes:
+      label: Languages you work on (optional)
+      description: Separate with commas.
+  - type: input
+    id: profile
+    attributes:
+      label: Public profile link
+      description: Google Scholar, ORCID, or your page on your institution's website. It must mention you.
+      placeholder: "https://scholar.google.com/citations?user=..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: I am the person named above and agree to these details being listed publicly on the SIG-ILSP website.
+          required: true

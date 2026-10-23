@@ -1,0 +1,78 @@
+name: Add a paper
+description: Add a speech, spoken-language or audio paper with at least one India-based author.
+title: "Paper: "
+labels: ["paper"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you! A SIG maintainer will check the entry and add it to the site.
+        Papers need at least one author with an institution in India.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+    validations:
+      required: true
+  - type: input
+    id: authors
+    attributes:
+      label: Authors
+      description: Separate names with semicolons.
+      placeholder: "A. Author; B. Author"
+    validations:
+      required: true
+  - type: input
+    id: affiliations
+    attributes:
+      label: India-based institution(s)
+      description: Separate with semicolons.
+      placeholder: "IIT Guwahati; IISc Bangalore"
+    validations:
+      required: true
+  - type: input
+    id: venue
+    attributes:
+      label: Venue
+      placeholder: "Interspeech 2026"
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Year and month
+      placeholder: "2026-09"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link (DOI or paper page)
+      placeholder: "https://doi.org/..."
+    validations:
+      required: true
+  - type: dropdown
+    id: theme
+    attributes:
+      label: Theme
+      options:
+        - Speech recognition & ASR evaluation
+        - Speech synthesis & voice conversion
+        - Speech translation & spoken understanding
+        - Speaker, language & emotion recognition
+        - Corpora, benchmarks & challenges
+        - Clinical & health speech
+        - Deepfakes, spoofing & audio security
+        - Enhancement, separation & spatial audio
+        - Prosody, phonetics & pronunciation
+        - Music & general audio
+        - Brain, lips & silent speech
+        - Representations & signal analysis
+    validations:
+      required: true
+  - type: checkboxes
+    id: flags
+    attributes:
+      label: Details
+      options:
+        - label: The paper focuses on one or more Indian languages

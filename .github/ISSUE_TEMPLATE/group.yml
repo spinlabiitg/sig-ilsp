@@ -1,0 +1,68 @@
+name: Add your research group
+description: List your group in the SIG-ILSP directory of people working on speech in India.
+title: "Group: "
+labels: ["group"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Listing is opt-in and public. Please submit only your own group's details.
+  - type: input
+    id: name
+    attributes:
+      label: Group or lab name
+    validations:
+      required: true
+  - type: input
+    id: institution
+    attributes:
+      label: Institution
+      description: The institution in India where the group is based.
+      placeholder: "IIT Guwahati"
+    validations:
+      required: true
+  - type: input
+    id: lead
+    attributes:
+      label: Group lead(s)
+    validations:
+      required: true
+  - type: input
+    id: topics
+    attributes:
+      label: Research topics
+      description: Separate with commas.
+      placeholder: "ASR, speech synthesis, clinical speech"
+    validations:
+      required: true
+  - type: input
+    id: languages
+    attributes:
+      label: Languages you work on
+      description: Separate with commas.
+      placeholder: "Assamese, Bodo, Hindi"
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: sector
+    attributes:
+      label: Sector
+      options:
+        - Academic
+        - Industry
+        - Government
+        - Non-profit
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: I lead or represent this group and agree to these details being listed publicly on the SIG-ILSP website.
+          required: true

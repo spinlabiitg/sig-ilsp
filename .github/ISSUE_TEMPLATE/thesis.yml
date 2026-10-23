@@ -1,0 +1,83 @@
+name: Add a PhD thesis
+description: Add a PhD or research-master's thesis on speech, spoken language or audio from an institution in India.
+title: "Thesis: "
+labels: ["thesis"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Congratulations! Theses appear on the Outcomes page and under "Recent theses" on the News page.
+        Authors or supervisors may submit. A SIG maintainer checks each entry before it appears.
+  - type: input
+    id: title
+    attributes:
+      label: Thesis title
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author
+    validations:
+      required: true
+  - type: input
+    id: supervisors
+    attributes:
+      label: Supervisor(s)
+      description: Separate with semicolons.
+    validations:
+      required: true
+  - type: input
+    id: institution
+    attributes:
+      label: Institution
+      placeholder: "IIT Guwahati"
+    validations:
+      required: true
+  - type: dropdown
+    id: degree
+    attributes:
+      label: Degree
+      options:
+        - PhD
+        - MS (by research)
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Year and month of defence or award
+      placeholder: "2026-08"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link (optional)
+      description: Shodhganga, your institution's repository, or a page about the thesis. Leave empty if it is not online yet.
+      placeholder: "https://shodhganga.inflibnet.ac.in/handle/..."
+  - type: dropdown
+    id: theme
+    attributes:
+      label: Theme
+      options:
+        - Speech recognition & ASR evaluation
+        - Speech synthesis & voice conversion
+        - Speech translation & spoken understanding
+        - Speaker, language & emotion recognition
+        - Corpora, benchmarks & challenges
+        - Clinical & health speech
+        - Deepfakes, spoofing & audio security
+        - Enhancement, separation & spatial audio
+        - Prosody, phonetics & pronunciation
+        - Music & general audio
+        - Brain, lips & silent speech
+        - Representations & signal analysis
+    validations:
+      required: true
+  - type: checkboxes
+    id: flags
+    attributes:
+      label: Details
+      options:
+        - label: The thesis focuses on one or more Indian languages

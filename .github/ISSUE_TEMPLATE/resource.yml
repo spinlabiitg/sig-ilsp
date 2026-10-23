@@ -1,0 +1,84 @@
+name: Add a dataset or resource
+description: Add a speech dataset, benchmark, model or toolkit for Indian languages.
+title: "Resource: "
+labels: ["resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Resources appear on the Outcomes page. Creators or users may submit. A SIG maintainer checks each entry.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Dataset
+        - Benchmark
+        - Model
+        - Toolkit
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: One or two sentences. What is it, and what is it for?
+    validations:
+      required: true
+  - type: input
+    id: languages
+    attributes:
+      label: Languages
+      description: Separate with commas.
+      placeholder: "Assamese, Bodo, Hindi"
+    validations:
+      required: true
+  - type: input
+    id: size
+    attributes:
+      label: Size (optional)
+      placeholder: "1,200 hours, 3,000 speakers"
+  - type: input
+    id: licence
+    attributes:
+      label: Licence
+      placeholder: "CC-BY 4.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: access
+    attributes:
+      label: Access
+      options:
+        - Open download
+        - Free, after registration or accepting terms
+        - On request
+        - Paid or restricted
+    validations:
+      required: true
+  - type: input
+    id: creators
+    attributes:
+      label: Created by
+      placeholder: "IISc Bangalore and ARTPARK"
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Year released (optional)
+      placeholder: "2025"
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: "https://..."
+    validations:
+      required: true
